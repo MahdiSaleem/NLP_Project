@@ -48,3 +48,13 @@ Dataset/LegalAmounts_tokenized/
 *.tif
 *.jpg
 *.png
+
+# Training outputs (regenerable)
+PartA/runs/
+PartA/yolo_data/
+PartC/runs/
+PartC/crops/
+PartC/splits/
+PartC/vocab.json
+PartC/vocab.txt
+*.pt
