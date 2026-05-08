@@ -21,6 +21,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
+import numpy as np
 import torch
 from PIL import Image
 from torchvision.transforms import functional as TF
@@ -28,7 +29,7 @@ from ultralytics import YOLO
 
 from PartC.dataset import DEFAULT_HEIGHT, load_vocab
 from PartC.decode import greedy_ctc_decode
-from PartC.model import CRNN
+from PartC.model import build_model
 
 LEGAL_CLASS_ID = 0
 
@@ -59,7 +60,7 @@ def best_legal_box(result) -> tuple[float, float, float, float] | None:
     return best[1] if best else None
 
 
-def recognize(crop: Image.Image, model: CRNN, idx_to_char: dict[int, str], height: int,
+def recognize(crop: Image.Image, model, idx_to_char: dict[int, str], height: int,
               device: torch.device) -> str:
     g = crop.convert("L")
     w, h = g.size
@@ -97,7 +98,8 @@ def main() -> None:
     height = ckpt.get("height", DEFAULT_HEIGHT)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    crnn = CRNN(vocab_size=vocab_size).to(device)
+    backbone = ckpt.get("backbone", "vgg")
+    crnn = build_model(backbone, vocab_size=vocab_size).to(device)
     crnn.load_state_dict(ckpt["model"])
     crnn.eval()
 
@@ -115,8 +117,12 @@ def main() -> None:
     n_no_box = 0
     with args.out.open("w", encoding="utf-8") as f:
         for img_path in images:
+            with Image.open(img_path) as im_raw:
+                im_rgb = im_raw.convert("RGB")
+                arr = np.array(im_rgb)  # (H, W, 3) uint8 RGB
             result = yolo.predict(
-                source=str(img_path), conf=args.conf, iou=args.iou_nms,
+                source=arr[:, :, ::-1],  # ultralytics expects BGR for ndarray inputs
+                conf=args.conf, iou=args.iou_nms,
                 imgsz=args.imgsz, device=args.device, verbose=False, max_det=10,
             )[0]
             box = best_legal_box(result)
@@ -124,11 +130,10 @@ def main() -> None:
                 n_no_box += 1
                 f.write(f"{img_path.name}\n")
                 continue
-            with Image.open(img_path) as im:
-                crop = crop_with_margin(im, box, args.margin)
-                if args.save_crops:
-                    crop.convert("L").save(args.save_crops / f"{img_path.stem}.png")
-                text = recognize(crop, crnn, idx_to_char, height, device)
+            crop = crop_with_margin(im_rgb, box, args.margin)
+            if args.save_crops:
+                crop.convert("L").save(args.save_crops / f"{img_path.stem}.png")
+            text = recognize(crop, crnn, idx_to_char, height, device)
             f.write(f"{img_path.name} {text}\n")
 
     print(f"Wrote {args.out}. Missed legal-amount detection: {n_no_box}/{len(images)}")

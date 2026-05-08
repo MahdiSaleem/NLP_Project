@@ -19,7 +19,7 @@ from torch.utils.data import DataLoader
 
 from PartC.dataset import LegalLineDataset, collate_ctc, load_vocab
 from PartC.decode import cer_wer, greedy_ctc_decode
-from PartC.model import CRNN
+from PartC.model import build_model
 
 
 def main() -> None:
@@ -50,9 +50,11 @@ def main() -> None:
         )
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model = CRNN(vocab_size=vocab_size).to(device)
+    backbone = ckpt.get("backbone", "vgg")
+    model = build_model(backbone, vocab_size=vocab_size).to(device)
     model.load_state_dict(ckpt["model"])
     model.eval()
+    print(f"Backbone: {backbone}")
 
     ds = LegalLineDataset(
         data_dir / "splits" / f"{args.split}.json",

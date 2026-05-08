@@ -22,7 +22,7 @@ from torch.utils.data import DataLoader
 
 from PartC.dataset import DEFAULT_HEIGHT, LegalLineDataset, collate_ctc, load_vocab
 from PartC.decode import cer_wer, greedy_ctc_decode
-from PartC.model import CRNN, count_params
+from PartC.model import build_model, count_params
 
 SEED = 42
 
@@ -43,7 +43,7 @@ def cosine_with_warmup(step: int, total: int, warmup_frac: float = 0.05) -> floa
 
 
 @torch.no_grad()
-def evaluate(model: CRNN, loader: DataLoader, idx_to_char: dict[int, str], device: torch.device) -> dict:
+def evaluate(model, loader: DataLoader, idx_to_char: dict[int, str], device: torch.device) -> dict:
     model.eval()
     preds_all: list[str] = []
     gts_all: list[str] = []
@@ -68,6 +68,7 @@ def main() -> None:
     ap.add_argument("--num-workers", type=int, default=2)
     ap.add_argument("--no-amp", action="store_true")
     ap.add_argument("--clip-grad", type=float, default=5.0)
+    ap.add_argument("--backbone", choices=["vgg", "resnet18"], default="vgg")
     ap.add_argument("--data-dir", type=Path, default=None,
                     help="PartC dir containing splits/ + crops/gt/ + vocab.json. Default: PartC")
     args = ap.parse_args()
@@ -97,8 +98,8 @@ def main() -> None:
                             num_workers=args.num_workers, collate_fn=collate_ctc,
                             pin_memory=pin)
 
-    model = CRNN(vocab_size=vocab_size).to(device)
-    print(f"Model params: {count_params(model):,}")
+    model = build_model(args.backbone, vocab_size=vocab_size).to(device)
+    print(f"Backbone: {args.backbone}  params: {count_params(model):,}")
 
     optim = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     ctc = nn.CTCLoss(blank=0, zero_infinity=True)
@@ -181,6 +182,7 @@ def main() -> None:
                 "val_cer": best_cer,
                 "vocab_size": vocab_size,
                 "height": args.height,
+                "backbone": args.backbone,
             }, weights_dir / "best.pt")
         else:
             epochs_since_improve += 1
@@ -192,7 +194,8 @@ def main() -> None:
 
     # Always save last weights for analysis.
     torch.save({"model": model.state_dict(), "epoch": epoch, "vocab_size": vocab_size,
-                "height": args.height}, weights_dir / "last.pt")
+                "height": args.height, "backbone": args.backbone},
+               weights_dir / "last.pt")
 
     summary = {
         "best_epoch": best_epoch,
