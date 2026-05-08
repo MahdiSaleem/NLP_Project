@@ -55,6 +55,8 @@ PartA/yolo_data/
 PartC/runs/
 PartC/crops/
 PartC/splits/
+PartC/splits_paw/
 PartC/vocab.json
 PartC/vocab.txt
+PartC/paw_vocab.json
 *.pt
