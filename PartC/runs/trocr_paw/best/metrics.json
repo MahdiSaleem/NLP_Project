@@ -1,0 +1,10 @@
+{
+  "epoch": 25,
+  "paw_wer": 20.628525382755843,
+  "paw_cer_joined": 13.039296510030228,
+  "raw_cer_concat": 13.386934673366834,
+  "paw_edits": 512,
+  "paw_total": 2482,
+  "exact_match_rate": 25.69832402234637,
+  "n_samples": 179
+}

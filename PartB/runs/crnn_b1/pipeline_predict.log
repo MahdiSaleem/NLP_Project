@@ -1,0 +1,3 @@
+Predicting on 1800 images
+Wrote PartB\runs\crnn_b1\predictions_courtesy.txt. Missed courtesy detection: 11/1800
+Saved predicted crops under PartB\crops\preds

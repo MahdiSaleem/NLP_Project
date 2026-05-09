@@ -1,0 +1,9 @@
+{
+  "best_epoch": 92,
+  "best_val_cer": 46.104245029554,
+  "epochs_run": 100,
+  "vocab_size": 61,
+  "height": 96,
+  "n_train": 1363,
+  "n_val": 165
+}

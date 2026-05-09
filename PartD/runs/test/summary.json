@@ -1,0 +1,17 @@
+{
+  "partB": "PartB\\runs\\crnn_b1\\predictions_courtesy.txt",
+  "partC": "PartC\\runs\\trocr_paw\\predictions_legal_paw.txt",
+  "split": "PartA\\splits\\test.txt",
+  "n_total": 181,
+  "n_match": 58,
+  "n_mismatch": 123,
+  "n_unparsed": 0,
+  "match_rate": 32.04419889502763,
+  "match_rate_among_parsed": 32.04419889502763,
+  "blame": {
+    "both_correct_and_match": 43,
+    "legal_recognizer_blame": 64,
+    "courtesy_recognizer_blame": 13,
+    "both_blame": 25
+  }
+}

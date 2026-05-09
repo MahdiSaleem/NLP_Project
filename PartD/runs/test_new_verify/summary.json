@@ -1,0 +1,12 @@
+{
+  "partB": "PartB\\runs\\crnn_b1\\predictions_courtesy_test_new.txt",
+  "partC": "predictions_legal_paw_test_new.txt",
+  "split": "all",
+  "n_total": 600,
+  "n_match": 405,
+  "n_mismatch": 194,
+  "n_unparsed": 1,
+  "match_rate": 67.5,
+  "match_rate_among_parsed": 67.61268781302171,
+  "blame": null
+}

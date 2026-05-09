@@ -1,7 +1,3 @@
-runs/
 yolo_data/
 data.yaml
-splits/
-results_*.json
-predictions.txt
 *.pt

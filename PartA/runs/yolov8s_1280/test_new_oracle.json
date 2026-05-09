@@ -1,0 +1,4229 @@
+{
+  "summary": {
+    "per_class": {
+      "legal_amount": {
+        "n": 600,
+        "mean_iou": 0.725409533411216,
+        "acc@0.50": 0.9666666666666667,
+        "acc@0.75": 0.44333333333333336,
+        "acc@0.90": 0.058333333333333334
+      },
+      "courtesy_amount": {
+        "n": 600,
+        "mean_iou": 0.4702859421055684,
+        "acc@0.50": 0.43,
+        "acc@0.75": 0.06333333333333334,
+        "acc@0.90": 0.008333333333333333
+      }
+    },
+    "overall": {
+      "n": 1200,
+      "mean_iou": 0.5978477377583922,
+      "acc@0.50": 0.6983333333333334,
+      "acc@0.75": 0.25333333333333335,
+      "acc@0.90": 0.03333333333333333
+    }
+  },
+  "per_image": [
+    {
+      "image": "ac03000.png",
+      "iou": {
+        "legal_amount": 0.9506175665940703,
+        "courtesy_amount": 0.838680356388364
+      }
+    },
+    {
+      "image": "ac03001.png",
+      "iou": {
+        "legal_amount": 0.7332693959955588,
+        "courtesy_amount": 0.4775365516306217
+      }
+    },
+    {
+      "image": "ac03003.png",
+      "iou": {
+        "legal_amount": 0.8969322269584041,
+        "courtesy_amount": 0.3843995432695591
+      }
+    },
+    {
+      "image": "ac03005.png",
+      "iou": {
+        "legal_amount": 0.8641977885884112,
+        "courtesy_amount": 0.7178657529924437
+      }
+    },
+    {
+      "image": "ac03006.png",
+      "iou": {
+        "legal_amount": 0.7976099506106512,
+        "courtesy_amount": 0.6555375832525367
+      }
+    },
+    {
+      "image": "ac03007.png",
+      "iou": {
+        "legal_amount": 0.8323756679563468,
+        "courtesy_amount": 0.3182263095077148
+      }
+    },
+    {
+      "image": "ac03008.png",
+      "iou": {
+        "legal_amount": 0.8553714459069328,
+        "courtesy_amount": 0.5748074618960887
+      }
+    },
+    {
+      "image": "ac03014.png",
+      "iou": {
+        "legal_amount": 0.7722530087361172,
+        "courtesy_amount": 0.31954130744843817
+      }
+    },
+    {
+      "image": "ac03015.png",
+      "iou": {
+        "legal_amount": 0.6653958884052349,
+        "courtesy_amount": 0.4708229759140602
+      }
+    },
+    {
+      "image": "ac03020.png",
+      "iou": {
+        "legal_amount": 0.9619119653263096,
+        "courtesy_amount": 0.37605146713631393
+      }
+    },
+    {
+      "image": "ac03021.png",
+      "iou": {
+        "legal_amount": 0.6430056665145775,
+        "courtesy_amount": 0.5209235537020633
+      }
+    },
+    {
+      "image": "ac03023.png",
+      "iou": {
+        "legal_amount": 0.7415612998697193,
+        "courtesy_amount": 0.3711067852541535
+      }
+    },
+    {
+      "image": "ac03025.png",
+      "iou": {
+        "legal_amount": 0.8425138697515027,
+        "courtesy_amount": 0.5669033513274284
+      }
+    },
+    {
+      "image": "ac03027.png",
+      "iou": {
+        "legal_amount": 0.9068581519958143,
+        "courtesy_amount": 0.5848750326328778
+      }
+    },
+    {
+      "image": "ac03035.png",
+      "iou": {
+        "legal_amount": 0.8917716090103806,
+        "courtesy_amount": 0.13761618197029876
+      }
+    },
+    {
+      "image": "ac03040.png",
+      "iou": {
+        "legal_amount": 0.6949048377961192,
+        "courtesy_amount": 0.415938079691524
+      }
+    },
+    {
+      "image": "ac03041.png",
+      "iou": {
+        "legal_amount": 0.5230046573477879,
+        "courtesy_amount": 0.49957890458608745
+      }
+    },
+    {
+      "image": "ac03043.png",
+      "iou": {
+        "legal_amount": 0.7715178685838949,
+        "courtesy_amount": 0.23708765768049267
+      }
+    },
+    {
+      "image": "ac03044.png",
+      "iou": {
+        "legal_amount": 0.6608933835000153,
+        "courtesy_amount": 0.7196551108923045
+      }
+    },
+    {
+      "image": "ac03045.png",
+      "iou": {
+        "legal_amount": 0.756235517752908,
+        "courtesy_amount": 0.1855517072139621
+      }
+    },
+    {
+      "image": "ac03046.png",
+      "iou": {
+        "legal_amount": 0.7142962490964825,
+        "courtesy_amount": 0.2885274807722256
+      }
+    },
+    {
+      "image": "ac03047.png",
+      "iou": {
+        "legal_amount": 0.6976862878814434,
+        "courtesy_amount": 0.43699450483024
+      }
+    },
+    {
+      "image": "ac03048.png",
+      "iou": {
+        "legal_amount": 0.708273213821222,
+        "courtesy_amount": 0.47908842665253754
+      }
+    },
+    {
+      "image": "ac03049.png",
+      "iou": {
+        "legal_amount": 0.6827518354702673,
+        "courtesy_amount": 0.7176365345305036
+      }
+    },
+    {
+      "image": "ac03057.png",
+      "iou": {
+        "legal_amount": 0.7326522418023278,
+        "courtesy_amount": 0.503775519394104
+      }
+    },
+    {
+      "image": "ac03059.png",
+      "iou": {
+        "legal_amount": 0.7337637606741614,
+        "courtesy_amount": 0.751019878887903
+      }
+    },
+    {
+      "image": "ac03060.png",
+      "iou": {
+        "legal_amount": 0.719755460410557,
+        "courtesy_amount": 0.568033464236722
+      }
+    },
+    {
+      "image": "ac03063.png",
+      "iou": {
+        "legal_amount": 0.7226273137705482,
+        "courtesy_amount": 0.2770446348633224
+      }
+    },
+    {
+      "image": "ac03065.png",
+      "iou": {
+        "legal_amount": 0.6491529193590614,
+        "courtesy_amount": 0.5640721028039575
+      }
+    },
+    {
+      "image": "ac03066.png",
+      "iou": {
+        "legal_amount": 0.8493907133130562,
+        "courtesy_amount": 0.6618914375022281
+      }
+    },
+    {
+      "image": "ac03067.png",
+      "iou": {
+        "legal_amount": 0.8949044850512361,
+        "courtesy_amount": 0.6906415013596415
+      }
+    },
+    {
+      "image": "ac03069.png",
+      "iou": {
+        "legal_amount": 0.7944635967197232,
+        "courtesy_amount": 0.49964710764721076
+      }
+    },
+    {
+      "image": "ac03071.png",
+      "iou": {
+        "legal_amount": 0.581649271199665,
+        "courtesy_amount": 0.2685881573752598
+      }
+    },
+    {
+      "image": "ac03072.png",
+      "iou": {
+        "legal_amount": 0.7483547840280336,
+        "courtesy_amount": 0.3526877566838969
+      }
+    },
+    {
+      "image": "ac03074.png",
+      "iou": {
+        "legal_amount": 0.8783403789826706,
+        "courtesy_amount": 0.3083286378441386
+      }
+    },
+    {
+      "image": "ac03077.png",
+      "iou": {
+        "legal_amount": 0.8575755171308848,
+        "courtesy_amount": 0.6452620533312043
+      }
+    },
+    {
+      "image": "ac03082.png",
+      "iou": {
+        "legal_amount": 0.5602023684137624,
+        "courtesy_amount": 0.7391720925072578
+      }
+    },
+    {
+      "image": "ac03084.png",
+      "iou": {
+        "legal_amount": 0.46406554808963224,
+        "courtesy_amount": 0.5533838336730966
+      }
+    },
+    {
+      "image": "ac03086.png",
+      "iou": {
+        "legal_amount": 0.7326938755515415,
+        "courtesy_amount": 0.7931275602660864
+      }
+    },
+    {
+      "image": "ac03087.png",
+      "iou": {
+        "legal_amount": 0.47800185120428684,
+        "courtesy_amount": 0.4153759487834154
+      }
+    },
+    {
+      "image": "ac03088.png",
+      "iou": {
+        "legal_amount": 0.7227499608081922,
+        "courtesy_amount": 0.4099192040253496
+      }
+    },
+    {
+      "image": "ac03089.png",
+      "iou": {
+        "legal_amount": 0.8219622277507113,
+        "courtesy_amount": 0.5660668000114043
+      }
+    },
+    {
+      "image": "ac03094.png",
+      "iou": {
+        "legal_amount": 0.8786791655492678,
+        "courtesy_amount": 0.761033629990868
+      }
+    },
+    {
+      "image": "ac03095.png",
+      "iou": {
+        "legal_amount": 0.6818961090782998,
+        "courtesy_amount": 0.4581395259483998
+      }
+    },
+    {
+      "image": "ac03099.png",
+      "iou": {
+        "legal_amount": 0.526852667170959,
+        "courtesy_amount": 0.4166003022165887
+      }
+    },
+    {
+      "image": "ac03100.png",
+      "iou": {
+        "legal_amount": 0.5003248398232606,
+        "courtesy_amount": 0.30548193781614774
+      }
+    },
+    {
+      "image": "ac03101.png",
+      "iou": {
+        "legal_amount": 0.7846034598725676,
+        "courtesy_amount": 0.5143322800690945
+      }
+    },
+    {
+      "image": "ac03102.png",
+      "iou": {
+        "legal_amount": 0.6739923060751901,
+        "courtesy_amount": 0.5608474425907137
+      }
+    },
+    {
+      "image": "ac03103.png",
+      "iou": {
+        "legal_amount": 0.7556730609640521,
+        "courtesy_amount": 0.8710388118006308
+      }
+    },
+    {
+      "image": "ac03104.png",
+      "iou": {
+        "legal_amount": 0.6715109927911046,
+        "courtesy_amount": 0.15151730990607346
+      }
+    },
+    {
+      "image": "ac03105.png",
+      "iou": {
+        "legal_amount": 0.9328364871870904,
+        "courtesy_amount": 0.3212616645323651
+      }
+    },
+    {
+      "image": "ac03106.png",
+      "iou": {
+        "legal_amount": 0.6550589564103451,
+        "courtesy_amount": 0.6649196646133805
+      }
+    },
+    {
+      "image": "ac03107.png",
+      "iou": {
+        "legal_amount": 0.7139065578212,
+        "courtesy_amount": 0.5365836295029629
+      }
+    },
+    {
+      "image": "ac03108.png",
+      "iou": {
+        "legal_amount": 0.6475729870628828,
+        "courtesy_amount": 0.33821651820654075
+      }
+    },
+    {
+      "image": "ac03109.png",
+      "iou": {
+        "legal_amount": 0.746871789178815,
+        "courtesy_amount": 0.6223707880557534
+      }
+    },
+    {
+      "image": "ac03112.png",
+      "iou": {
+        "legal_amount": 0.6457210458349871,
+        "courtesy_amount": 0.40296269115863886
+      }
+    },
+    {
+      "image": "ac03114.png",
+      "iou": {
+        "legal_amount": 0.595974208626517,
+        "courtesy_amount": 0.23190857116428631
+      }
+    },
+    {
+      "image": "ac03116.png",
+      "iou": {
+        "legal_amount": 0.7433319955016422,
+        "courtesy_amount": 0.5042878755775387
+      }
+    },
+    {
+      "image": "ac03117.png",
+      "iou": {
+        "legal_amount": 0.8854282663244085,
+        "courtesy_amount": 0.440942649591423
+      }
+    },
+    {
+      "image": "ac03120.png",
+      "iou": {
+        "legal_amount": 0.7450573375501505,
+        "courtesy_amount": 0.5572087960808605
+      }
+    },
+    {
+      "image": "ac03121.png",
+      "iou": {
+        "legal_amount": 0.5885174384999313,
+        "courtesy_amount": 0.39052851828051116
+      }
+    },
+    {
+      "image": "ac03122.png",
+      "iou": {
+        "legal_amount": 0.8064746277329626,
+        "courtesy_amount": 0.5320158198339219
+      }
+    },
+    {
+      "image": "ac03125.png",
+      "iou": {
+        "legal_amount": 0.7035714661989376,
+        "courtesy_amount": 0.643733650156174
+      }
+    },
+    {
+      "image": "ac03126.png",
+      "iou": {
+        "legal_amount": 0.6238490871712917,
+        "courtesy_amount": 0.3667366855069834
+      }
+    },
+    {
+      "image": "ac03129.png",
+      "iou": {
+        "legal_amount": 0.787984748084037,
+        "courtesy_amount": 0.21631358892474703
+      }
+    },
+    {
+      "image": "ac03133.png",
+      "iou": {
+        "legal_amount": 0.7883058722321863,
+        "courtesy_amount": 0.7921797424380804
+      }
+    },
+    {
+      "image": "ac03134.png",
+      "iou": {
+        "legal_amount": 0.8053343184255476,
+        "courtesy_amount": 0.7716977807433455
+      }
+    },
+    {
+      "image": "ac03138.png",
+      "iou": {
+        "legal_amount": 0.6150386663450983,
+        "courtesy_amount": 0.8027701138920255
+      }
+    },
+    {
+      "image": "ac03142.png",
+      "iou": {
+        "legal_amount": 0.674363771230176,
+        "courtesy_amount": 0.32228340848210174
+      }
+    },
+    {
+      "image": "ac03143.png",
+      "iou": {
+        "legal_amount": 0.8654833771099727,
+        "courtesy_amount": 0.5382690963045543
+      }
+    },
+    {
+      "image": "ac03146.png",
+      "iou": {
+        "legal_amount": 0.8454790008370519,
+        "courtesy_amount": 0.6609676942628444
+      }
+    },
+    {
+      "image": "ac03147.png",
+      "iou": {
+        "legal_amount": 0.9000023977188825,
+        "courtesy_amount": 0.4153532011438809
+      }
+    },
+    {
+      "image": "ac03148.png",
+      "iou": {
+        "legal_amount": 0.7693893476557431,
+        "courtesy_amount": 0.40448996889941297
+      }
+    },
+    {
+      "image": "ac03149.png",
+      "iou": {
+        "legal_amount": 0.5962733497341274,
+        "courtesy_amount": 0.5701295975643649
+      }
+    },
+    {
+      "image": "ac03150.png",
+      "iou": {
+        "legal_amount": 0.8053116412707533,
+        "courtesy_amount": 0.4199927553996976
+      }
+    },
+    {
+      "image": "ac03153.png",
+      "iou": {
+        "legal_amount": 0.6082771464058586,
+        "courtesy_amount": 0.3020093434046579
+      }
+    },
+    {
+      "image": "ac03154.png",
+      "iou": {
+        "legal_amount": 0.6680203780787194,
+        "courtesy_amount": 0.516460003705285
+      }
+    },
+    {
+      "image": "ac03157.png",
+      "iou": {
+        "legal_amount": 0.6421878747125493,
+        "courtesy_amount": 0.6190327666974728
+      }
+    },
+    {
+      "image": "ac03159.png",
+      "iou": {
+        "legal_amount": 0.492103072734341,
+        "courtesy_amount": 0.1343125235813544
+      }
+    },
+    {
+      "image": "ac03160.png",
+      "iou": {
+        "legal_amount": 0.7175326067397316,
+        "courtesy_amount": 0.24922814375347513
+      }
+    },
+    {
+      "image": "ac03162.png",
+      "iou": {
+        "legal_amount": 0.5829206634550199,
+        "courtesy_amount": 0.33371242995519645
+      }
+    },
+    {
+      "image": "ac03163.png",
+      "iou": {
+        "legal_amount": 0.47263805940633874,
+        "courtesy_amount": 0.3594993139112615
+      }
+    },
+    {
+      "image": "ac03166.png",
+      "iou": {
+        "legal_amount": 0.6907645495147396,
+        "courtesy_amount": 0.40327929737109247
+      }
+    },
+    {
+      "image": "ac03167.png",
+      "iou": {
+        "legal_amount": 0.6116338176394228,
+        "courtesy_amount": 0.2265820304472721
+      }
+    },
+    {
+      "image": "ac03168.png",
+      "iou": {
+        "legal_amount": 0.9582727989978828,
+        "courtesy_amount": 0.345238518157244
+      }
+    },
+    {
+      "image": "ac03170.png",
+      "iou": {
+        "legal_amount": 0.8242682754708832,
+        "courtesy_amount": 0.6371087962396774
+      }
+    },
+    {
+      "image": "ac03176.png",
+      "iou": {
+        "legal_amount": 0.5086935454042979,
+        "courtesy_amount": 0.3830620238796473
+      }
+    },
+    {
+      "image": "ac03184.png",
+      "iou": {
+        "legal_amount": 0.530083002339756,
+        "courtesy_amount": 0.5871262366528468
+      }
+    },
+    {
+      "image": "ac03187.png",
+      "iou": {
+        "legal_amount": 0.6773734096224575,
+        "courtesy_amount": 0.4607035954310386
+      }
+    },
+    {
+      "image": "ac03188.png",
+      "iou": {
+        "legal_amount": 0.6033564613790998,
+        "courtesy_amount": 0.24787134129219315
+      }
+    },
+    {
+      "image": "ac03189.png",
+      "iou": {
+        "legal_amount": 0.7711164897778313,
+        "courtesy_amount": 0.19090103014712004
+      }
+    },
+    {
+      "image": "ac03191.png",
+      "iou": {
+        "legal_amount": 0.7470853639396273,
+        "courtesy_amount": 0.3879368631221357
+      }
+    },
+    {
+      "image": "ac03195.png",
+      "iou": {
+        "legal_amount": 0.7778443956698111,
+        "courtesy_amount": 0.4845237860013853
+      }
+    },
+    {
+      "image": "ac03202.png",
+      "iou": {
+        "legal_amount": 0.7711575467937748,
+        "courtesy_amount": 0.5360252564815943
+      }
+    },
+    {
+      "image": "ac03204.png",
+      "iou": {
+        "legal_amount": 0.7048713933678591,
+        "courtesy_amount": 0.46750809602559507
+      }
+    },
+    {
+      "image": "ac03208.png",
+      "iou": {
+        "legal_amount": 0.5172077421252134,
+        "courtesy_amount": 0.440478453377047
+      }
+    },
+    {
+      "image": "ac03209.png",
+      "iou": {
+        "legal_amount": 0.4996583070447794,
+        "courtesy_amount": 0.36284008418825153
+      }
+    },
+    {
+      "image": "ac03210.png",
+      "iou": {
+        "legal_amount": 0.6859360065712341,
+        "courtesy_amount": 0.3795798111676834
+      }
+    },
+    {
+      "image": "ac03212.png",
+      "iou": {
+        "legal_amount": 0.6638486305927485,
+        "courtesy_amount": 0.4320054848844269
+      }
+    },
+    {
+      "image": "ac03213.png",
+      "iou": {
+        "legal_amount": 0.5260472265833759,
+        "courtesy_amount": 0.4493030339225116
+      }
+    },
+    {
+      "image": "ac03214.png",
+      "iou": {
+        "legal_amount": 0.6497892390193423,
+        "courtesy_amount": 0.6154241335498326
+      }
+    },
+    {
+      "image": "ac03215.png",
+      "iou": {
+        "legal_amount": 0.8482946164560597,
+        "courtesy_amount": 0.5198286404381489
+      }
+    },
+    {
+      "image": "ac03216.png",
+      "iou": {
+        "legal_amount": 0.8304761749070313,
+        "courtesy_amount": 0.5330215319497005
+      }
+    },
+    {
+      "image": "ac03218.png",
+      "iou": {
+        "legal_amount": 0.6380731055563246,
+        "courtesy_amount": 0.5271545741845617
+      }
+    },
+    {
+      "image": "ac03219.png",
+      "iou": {
+        "legal_amount": 0.6730981956081781,
+        "courtesy_amount": 0.4857511839261424
+      }
+    },
+    {
+      "image": "ac03220.png",
+      "iou": {
+        "legal_amount": 0.8296124163682745,
+        "courtesy_amount": 0.6101292951839665
+      }
+    },
+    {
+      "image": "ac03222.png",
+      "iou": {
+        "legal_amount": 0.669841091661107,
+        "courtesy_amount": 0.7659918636995812
+      }
+    },
+    {
+      "image": "ac03225.png",
+      "iou": {
+        "legal_amount": 0.8381628648210525,
+        "courtesy_amount": 0.4629831272392789
+      }
+    },
+    {
+      "image": "ac03226.png",
+      "iou": {
+        "legal_amount": 0.5718487837765339,
+        "courtesy_amount": 0.5099921697367077
+      }
+    },
+    {
+      "image": "ac03227.png",
+      "iou": {
+        "legal_amount": 0.8283563761806252,
+        "courtesy_amount": 0.7021402995628512
+      }
+    },
+    {
+      "image": "ac03231.png",
+      "iou": {
+        "legal_amount": 0.7317563996843934,
+        "courtesy_amount": 0.4401801178178451
+      }
+    },
+    {
+      "image": "ac03232.png",
+      "iou": {
+        "legal_amount": 0.8577127580342176,
+        "courtesy_amount": 0.5441071970685922
+      }
+    },
+    {
+      "image": "ac03233.png",
+      "iou": {
+        "legal_amount": 0.8737339011253301,
+        "courtesy_amount": 0.5856810422050593
+      }
+    },
+    {
+      "image": "ac03236.png",
+      "iou": {
+        "legal_amount": 0.6570442345585865,
+        "courtesy_amount": 0.4017712000271643
+      }
+    },
+    {
+      "image": "ac03237.png",
+      "iou": {
+        "legal_amount": 0.8146779334556549,
+        "courtesy_amount": 0.6786680285522237
+      }
+    },
+    {
+      "image": "ac03238.png",
+      "iou": {
+        "legal_amount": 0.9659332468825668,
+        "courtesy_amount": 0.3821686663500371
+      }
+    },
+    {
+      "image": "ac03239.png",
+      "iou": {
+        "legal_amount": 0.6562691060257656,
+        "courtesy_amount": 0.7474192165240537
+      }
+    },
+    {
+      "image": "ac03241.png",
+      "iou": {
+        "legal_amount": 0.7388958767699276,
+        "courtesy_amount": 0.18169301539264202
+      }
+    },
+    {
+      "image": "ac03243.png",
+      "iou": {
+        "legal_amount": 0.7301447838539631,
+        "courtesy_amount": 0.4240309382233384
+      }
+    },
+    {
+      "image": "ac03244.png",
+      "iou": {
+        "legal_amount": 0.7301998105284045,
+        "courtesy_amount": 0.5613149816191437
+      }
+    },
+    {
+      "image": "ac03245.png",
+      "iou": {
+        "legal_amount": 0.7818112273838883,
+        "courtesy_amount": 0.4204318163898029
+      }
+    },
+    {
+      "image": "ac03247.png",
+      "iou": {
+        "legal_amount": 0.6673350942937568,
+        "courtesy_amount": 0.47858721371456703
+      }
+    },
+    {
+      "image": "ac03249.png",
+      "iou": {
+        "legal_amount": 0.6423086566131847,
+        "courtesy_amount": 0.32277168070782103
+      }
+    },
+    {
+      "image": "ac03250.png",
+      "iou": {
+        "legal_amount": 0.6826354394515196,
+        "courtesy_amount": 0.42048729755857855
+      }
+    },
+    {
+      "image": "ac03253.png",
+      "iou": {
+        "legal_amount": 0.7494111276756326,
+        "courtesy_amount": 0.1536844246469339
+      }
+    },
+    {
+      "image": "ac03254.png",
+      "iou": {
+        "legal_amount": 0.8007636908211517,
+        "courtesy_amount": 0.5922043014184705
+      }
+    },
+    {
+      "image": "ac03255.png",
+      "iou": {
+        "legal_amount": 0.7953704517430836,
+        "courtesy_amount": 0.6705440815308269
+      }
+    },
+    {
+      "image": "ac03256.png",
+      "iou": {
+        "legal_amount": 0.404241097584112,
+        "courtesy_amount": 0.2568998916982374
+      }
+    },
+    {
+      "image": "ac03257.png",
+      "iou": {
+        "legal_amount": 0.7788009830414879,
+        "courtesy_amount": 0.39707561708681016
+      }
+    },
+    {
+      "image": "ac03263.png",
+      "iou": {
+        "legal_amount": 0.6896730068622919,
+        "courtesy_amount": 0.20591189141015417
+      }
+    },
+    {
+      "image": "ac03265.png",
+      "iou": {
+        "legal_amount": 0.7616003644373026,
+        "courtesy_amount": 0.5053766614577534
+      }
+    },
+    {
+      "image": "ac03266.png",
+      "iou": {
+        "legal_amount": 0.6143702104895018,
+        "courtesy_amount": 0.5195769469970114
+      }
+    },
+    {
+      "image": "ac03267.png",
+      "iou": {
+        "legal_amount": 0.7905763637600703,
+        "courtesy_amount": 0.5992296236020614
+      }
+    },
+    {
+      "image": "ac03268.png",
+      "iou": {
+        "legal_amount": 0.6523217809861882,
+        "courtesy_amount": 0.3571379144601296
+      }
+    },
+    {
+      "image": "ac03269.png",
+      "iou": {
+        "legal_amount": 0.635166138027505,
+        "courtesy_amount": 0.15978529956973608
+      }
+    },
+    {
+      "image": "ac03271.png",
+      "iou": {
+        "legal_amount": 0.6168278747620667,
+        "courtesy_amount": 0.4484416375344742
+      }
+    },
+    {
+      "image": "ac03272.png",
+      "iou": {
+        "legal_amount": 0.6475371918670604,
+        "courtesy_amount": 0.5077914268428779
+      }
+    },
+    {
+      "image": "ac03273.png",
+      "iou": {
+        "legal_amount": 0.6506844639023762,
+        "courtesy_amount": 0.18197704496577638
+      }
+    },
+    {
+      "image": "ac03274.png",
+      "iou": {
+        "legal_amount": 0.5613563814813212,
+        "courtesy_amount": 0.3306444281727394
+      }
+    },
+    {
+      "image": "ac03275.png",
+      "iou": {
+        "legal_amount": 0.6162164046728398,
+        "courtesy_amount": 0.2782751226446606
+      }
+    },
+    {
+      "image": "ac03278.png",
+      "iou": {
+        "legal_amount": 0.7452399171928701,
+        "courtesy_amount": 0.14011260485872593
+      }
+    },
+    {
+      "image": "ac03279.png",
+      "iou": {
+        "legal_amount": 0.7036019793935254,
+        "courtesy_amount": 0.6758666954014967
+      }
+    },
+    {
+      "image": "ac03282.png",
+      "iou": {
+        "legal_amount": 0.8716038565117309,
+        "courtesy_amount": 0.6072465625448483
+      }
+    },
+    {
+      "image": "ac03284.png",
+      "iou": {
+        "legal_amount": 0.6807597431244072,
+        "courtesy_amount": 0.5003759436882459
+      }
+    },
+    {
+      "image": "ac03285.png",
+      "iou": {
+        "legal_amount": 0.7162638415971117,
+        "courtesy_amount": 0.10359538592577111
+      }
+    },
+    {
+      "image": "ac03286.png",
+      "iou": {
+        "legal_amount": 0.6700029944954679,
+        "courtesy_amount": 0.49674328012612423
+      }
+    },
+    {
+      "image": "ac03288.png",
+      "iou": {
+        "legal_amount": 0.7718072965232365,
+        "courtesy_amount": 0.6803621185585716
+      }
+    },
+    {
+      "image": "ac03289.png",
+      "iou": {
+        "legal_amount": 0.902826124242743,
+        "courtesy_amount": 0.6597340694482674
+      }
+    },
+    {
+      "image": "ac03290.png",
+      "iou": {
+        "legal_amount": 0.6582780935544015,
+        "courtesy_amount": 0.42036881858248
+      }
+    },
+    {
+      "image": "ac03292.png",
+      "iou": {
+        "legal_amount": 0.6657363946589554,
+        "courtesy_amount": 0.5740980819179895
+      }
+    },
+    {
+      "image": "ac03293.png",
+      "iou": {
+        "legal_amount": 0.8613473296775634,
+        "courtesy_amount": 0.2168149165064099
+      }
+    },
+    {
+      "image": "ac03296.png",
+      "iou": {
+        "legal_amount": 0.8387054885943607,
+        "courtesy_amount": 0.5229842009105102
+      }
+    },
+    {
+      "image": "ac03297.png",
+      "iou": {
+        "legal_amount": 0.7200112729632713,
+        "courtesy_amount": 0.41040789977006403
+      }
+    },
+    {
+      "image": "ac03298.png",
+      "iou": {
+        "legal_amount": 0.8019026289650334,
+        "courtesy_amount": 0.4624567158839324
+      }
+    },
+    {
+      "image": "ac03299.png",
+      "iou": {
+        "legal_amount": 0.7034943741588069,
+        "courtesy_amount": 0.45573674144690945
+      }
+    },
+    {
+      "image": "ac03302.png",
+      "iou": {
+        "legal_amount": 0.4609397746003745,
+        "courtesy_amount": 0.8043854035143638
+      }
+    },
+    {
+      "image": "ac03304.png",
+      "iou": {
+        "legal_amount": 0.6645013834811708,
+        "courtesy_amount": 0.16815831930082478
+      }
+    },
+    {
+      "image": "ac03308.png",
+      "iou": {
+        "legal_amount": 0.6276247170009941,
+        "courtesy_amount": 0.24054846125598256
+      }
+    },
+    {
+      "image": "ac03311.png",
+      "iou": {
+        "legal_amount": 0.9641250497190907,
+        "courtesy_amount": 0.5566001287743904
+      }
+    },
+    {
+      "image": "ac03316.png",
+      "iou": {
+        "legal_amount": 0.6350507870540009,
+        "courtesy_amount": 0.7903143763578586
+      }
+    },
+    {
+      "image": "ac03318.png",
+      "iou": {
+        "legal_amount": 0.7010590773009129,
+        "courtesy_amount": 0.47494428067991346
+      }
+    },
+    {
+      "image": "ac03321.png",
+      "iou": {
+        "legal_amount": 0.5774456152693938,
+        "courtesy_amount": 0.27940705197182936
+      }
+    },
+    {
+      "image": "ac03322.png",
+      "iou": {
+        "legal_amount": 0.9046527858504271,
+        "courtesy_amount": 0.44391163361285735
+      }
+    },
+    {
+      "image": "ac03328.png",
+      "iou": {
+        "legal_amount": 0.826859747413329,
+        "courtesy_amount": 0.8440981247136533
+      }
+    },
+    {
+      "image": "ac03329.png",
+      "iou": {
+        "legal_amount": 0.8918322146852026,
+        "courtesy_amount": 0.7078104453526991
+      }
+    },
+    {
+      "image": "ac03330.png",
+      "iou": {
+        "legal_amount": 0.7366323588483172,
+        "courtesy_amount": 0.24957591190169998
+      }
+    },
+    {
+      "image": "ac03331.png",
+      "iou": {
+        "legal_amount": 0.7406452554351025,
+        "courtesy_amount": 0.17366206816943933
+      }
+    },
+    {
+      "image": "ac03333.png",
+      "iou": {
+        "legal_amount": 0.6439921202546679,
+        "courtesy_amount": 0.15873454243551172
+      }
+    },
+    {
+      "image": "ac03334.png",
+      "iou": {
+        "legal_amount": 0.6575851113310455,
+        "courtesy_amount": 0.143375353445299
+      }
+    },
+    {
+      "image": "ac03337.png",
+      "iou": {
+        "legal_amount": 0.748511343365584,
+        "courtesy_amount": 0.5030144715578221
+      }
+    },
+    {
+      "image": "ac03338.png",
+      "iou": {
+        "legal_amount": 0.605748763474934,
+        "courtesy_amount": 0.701478749994862
+      }
+    },
+    {
+      "image": "ac03341.png",
+      "iou": {
+        "legal_amount": 0.6706066026169566,
+        "courtesy_amount": 0.4027043579947657
+      }
+    },
+    {
+      "image": "ac03342.png",
+      "iou": {
+        "legal_amount": 0.6730972890877903,
+        "courtesy_amount": 0.7104316962975652
+      }
+    },
+    {
+      "image": "ac03344.png",
+      "iou": {
+        "legal_amount": 0.7506351617598732,
+        "courtesy_amount": 0.48259782611588126
+      }
+    },
+    {
+      "image": "ac03348.png",
+      "iou": {
+        "legal_amount": 0.6542695301243822,
+        "courtesy_amount": 0.5820185506775966
+      }
+    },
+    {
+      "image": "ac03349.png",
+      "iou": {
+        "legal_amount": 0.5151657936931333,
+        "courtesy_amount": 0.6276438632992282
+      }
+    },
+    {
+      "image": "ac03350.png",
+      "iou": {
+        "legal_amount": 0.8457664449827836,
+        "courtesy_amount": 0.7286130559379247
+      }
+    },
+    {
+      "image": "ac03351.png",
+      "iou": {
+        "legal_amount": 0.8406331602665141,
+        "courtesy_amount": 0.3596285457734936
+      }
+    },
+    {
+      "image": "ac03354.png",
+      "iou": {
+        "legal_amount": 0.708686010100819,
+        "courtesy_amount": 0.3441715558945964
+      }
+    },
+    {
+      "image": "ac03360.png",
+      "iou": {
+        "legal_amount": 0.5288505245815659,
+        "courtesy_amount": 0.5114788520598543
+      }
+    },
+    {
+      "image": "ac03361.png",
+      "iou": {
+        "legal_amount": 0.7609896046782302,
+        "courtesy_amount": 0.5586740428332074
+      }
+    },
+    {
+      "image": "ac03366.png",
+      "iou": {
+        "legal_amount": 0.6648086221354668,
+        "courtesy_amount": 0.3473537897286859
+      }
+    },
+    {
+      "image": "ac03367.png",
+      "iou": {
+        "legal_amount": 0.8317549244493088,
+        "courtesy_amount": 0.1883345388312132
+      }
+    },
+    {
+      "image": "ac03371.png",
+      "iou": {
+        "legal_amount": 0.7340273776233891,
+        "courtesy_amount": 0.31817406318499236
+      }
+    },
+    {
+      "image": "ac03374.png",
+      "iou": {
+        "legal_amount": 0.816561270798008,
+        "courtesy_amount": 0.2046802004271223
+      }
+    },
+    {
+      "image": "ac03378.png",
+      "iou": {
+        "legal_amount": 0.758181075747555,
+        "courtesy_amount": 0.7204144393438152
+      }
+    },
+    {
+      "image": "ac03379.png",
+      "iou": {
+        "legal_amount": 0.4588143354383746,
+        "courtesy_amount": 0.0
+      }
+    },
+    {
+      "image": "ac03380.png",
+      "iou": {
+        "legal_amount": 0.6779546904747518,
+        "courtesy_amount": 0.5565416098846526
+      }
+    },
+    {
+      "image": "ac03381.png",
+      "iou": {
+        "legal_amount": 0.6761550841397086,
+        "courtesy_amount": 0.40381472173435123
+      }
+    },
+    {
+      "image": "ac03384.png",
+      "iou": {
+        "legal_amount": 0.7873815073115267,
+        "courtesy_amount": 0.36596456113448517
+      }
+    },
+    {
+      "image": "ac03387.png",
+      "iou": {
+        "legal_amount": 0.7849207942251578,
+        "courtesy_amount": 0.2685890902089755
+      }
+    },
+    {
+      "image": "ac03388.png",
+      "iou": {
+        "legal_amount": 0.714321442397247,
+        "courtesy_amount": 0.27258372958427113
+      }
+    },
+    {
+      "image": "ac03389.png",
+      "iou": {
+        "legal_amount": 0.6630478872764577,
+        "courtesy_amount": 0.39045592674713386
+      }
+    },
+    {
+      "image": "ac03392.png",
+      "iou": {
+        "legal_amount": 0.5438138585953772,
+        "courtesy_amount": 0.36819099671361677
+      }
+    },
+    {
+      "image": "ac03393.png",
+      "iou": {
+        "legal_amount": 0.7777583442044078,
+        "courtesy_amount": 0.5821977428955156
+      }
+    },
+    {
+      "image": "ac03394.png",
+      "iou": {
+        "legal_amount": 0.7840128955679915,
+        "courtesy_amount": 0.6243365983221121
+      }
+    },
+    {
+      "image": "ac03395.png",
+      "iou": {
+        "legal_amount": 0.8010994208588127,
+        "courtesy_amount": 0.15213532840968388
+      }
+    },
+    {
+      "image": "ac03396.png",
+      "iou": {
+        "legal_amount": 0.7279267026839253,
+        "courtesy_amount": 0.280886509431822
+      }
+    },
+    {
+      "image": "ac03397.png",
+      "iou": {
+        "legal_amount": 0.5313609706633458,
+        "courtesy_amount": 0.6989741046514202
+      }
+    },
+    {
+      "image": "ac03398.png",
+      "iou": {
+        "legal_amount": 0.5061407420322548,
+        "courtesy_amount": 0.49340236848732594
+      }
+    },
+    {
+      "image": "ac03400.png",
+      "iou": {
+        "legal_amount": 0.758572687009608,
+        "courtesy_amount": 0.3298592342883511
+      }
+    },
+    {
+      "image": "ac03401.png",
+      "iou": {
+        "legal_amount": 0.5459472300805197,
+        "courtesy_amount": 0.5578661665958755
+      }
+    },
+    {
+      "image": "ac03402.png",
+      "iou": {
+        "legal_amount": 0.7493520341589489,
+        "courtesy_amount": 0.7322294563394669
+      }
+    },
+    {
+      "image": "ac03403.png",
+      "iou": {
+        "legal_amount": 0.6797827969016463,
+        "courtesy_amount": 0.4586905227495893
+      }
+    },
+    {
+      "image": "ac03404.png",
+      "iou": {
+        "legal_amount": 0.5087552826214347,
+        "courtesy_amount": 0.24070906237788373
+      }
+    },
+    {
+      "image": "ac03405.png",
+      "iou": {
+        "legal_amount": 0.7899922336870164,
+        "courtesy_amount": 0.6246314162751141
+      }
+    },
+    {
+      "image": "ac03408.png",
+      "iou": {
+        "legal_amount": 0.9441243524397129,
+        "courtesy_amount": 0.5268447167420895
+      }
+    },
+    {
+      "image": "ac03410.png",
+      "iou": {
+        "legal_amount": 0.7248915680546807,
+        "courtesy_amount": 0.5523571717919384
+      }
+    },
+    {
+      "image": "ac03414.png",
+      "iou": {
+        "legal_amount": 0.6865639877214562,
+        "courtesy_amount": 0.5214262217674887
+      }
+    },
+    {
+      "image": "ac03415.png",
+      "iou": {
+        "legal_amount": 0.5240754349678209,
+        "courtesy_amount": 0.15181141433583675
+      }
+    },
+    {
+      "image": "ac03418.png",
+      "iou": {
+        "legal_amount": 0.6332540759485001,
+        "courtesy_amount": 0.6309152135666869
+      }
+    },
+    {
+      "image": "ac03423.png",
+      "iou": {
+        "legal_amount": 0.9033346684770996,
+        "courtesy_amount": 0.29804048072681427
+      }
+    },
+    {
+      "image": "ac03426.png",
+      "iou": {
+        "legal_amount": 0.7203304192476558,
+        "courtesy_amount": 0.5307680431176468
+      }
+    },
+    {
+      "image": "ac03427.png",
+      "iou": {
+        "legal_amount": 0.6966429617044725,
+        "courtesy_amount": 0.5161283305631241
+      }
+    },
+    {
+      "image": "ac03428.png",
+      "iou": {
+        "legal_amount": 0.8045681519332499,
+        "courtesy_amount": 0.2654591476916353
+      }
+    },
+    {
+      "image": "ac03430.png",
+      "iou": {
+        "legal_amount": 0.5982600330404753,
+        "courtesy_amount": 0.7852213238058157
+      }
+    },
+    {
+      "image": "ac03432.png",
+      "iou": {
+        "legal_amount": 0.5137994605652774,
+        "courtesy_amount": 0.591344549259315
+      }
+    },
+    {
+      "image": "ac03436.png",
+      "iou": {
+        "legal_amount": 0.5397756952770413,
+        "courtesy_amount": 0.5028071903255343
+      }
+    },
+    {
+      "image": "ac03437.png",
+      "iou": {
+        "legal_amount": 0.5684934957045875,
+        "courtesy_amount": 0.43940610279411596
+      }
+    },
+    {
+      "image": "ac03438.png",
+      "iou": {
+        "legal_amount": 0.8083896586805829,
+        "courtesy_amount": 0.669251305141091
+      }
+    },
+    {
+      "image": "ac03444.png",
+      "iou": {
+        "legal_amount": 0.6061803936116904,
+        "courtesy_amount": 0.5733770960312423
+      }
+    },
+    {
+      "image": "ac03445.png",
+      "iou": {
+        "legal_amount": 0.8174843625306387,
+        "courtesy_amount": 0.651850070603765
+      }
+    },
+    {
+      "image": "ac03446.png",
+      "iou": {
+        "legal_amount": 0.5222159703815143,
+        "courtesy_amount": 0.45062356275316406
+      }
+    },
+    {
+      "image": "ac03448.png",
+      "iou": {
+        "legal_amount": 0.6724539621396506,
+        "courtesy_amount": 0.262569567034888
+      }
+    },
+    {
+      "image": "ac03449.png",
+      "iou": {
+        "legal_amount": 0.9283520703937266,
+        "courtesy_amount": 0.5729220880016697
+      }
+    },
+    {
+      "image": "ac03450.png",
+      "iou": {
+        "legal_amount": 0.8074081571600065,
+        "courtesy_amount": 0.5051339021692223
+      }
+    },
+    {
+      "image": "ac03451.png",
+      "iou": {
+        "legal_amount": 0.6290684920577856,
+        "courtesy_amount": 0.45799162472601873
+      }
+    },
+    {
+      "image": "ac03453.png",
+      "iou": {
+        "legal_amount": 0.9483967252000102,
+        "courtesy_amount": 0.32786392740229964
+      }
+    },
+    {
+      "image": "ac03454.png",
+      "iou": {
+        "legal_amount": 0.5636745820127363,
+        "courtesy_amount": 0.6917044514875726
+      }
+    },
+    {
+      "image": "ac03455.png",
+      "iou": {
+        "legal_amount": 0.7066836991674558,
+        "courtesy_amount": 0.32687423770902335
+      }
+    },
+    {
+      "image": "ac03458.png",
+      "iou": {
+        "legal_amount": 0.8485711231409815,
+        "courtesy_amount": 0.6506694378342934
+      }
+    },
+    {
+      "image": "ac03461.png",
+      "iou": {
+        "legal_amount": 0.7094822179653772,
+        "courtesy_amount": 0.5936189513534191
+      }
+    },
+    {
+      "image": "ac03463.png",
+      "iou": {
+        "legal_amount": 0.7422956940496444,
+        "courtesy_amount": 0.6204132112428793
+      }
+    },
+    {
+      "image": "ac03464.png",
+      "iou": {
+        "legal_amount": 0.44683802733366523,
+        "courtesy_amount": 0.26302361985285205
+      }
+    },
+    {
+      "image": "ac03465.png",
+      "iou": {
+        "legal_amount": 0.5594979983366857,
+        "courtesy_amount": 0.7042934189659057
+      }
+    },
+    {
+      "image": "ac03467.png",
+      "iou": {
+        "legal_amount": 0.8420456162542543,
+        "courtesy_amount": 0.48629939553145185
+      }
+    },
+    {
+      "image": "ac03468.png",
+      "iou": {
+        "legal_amount": 0.6463229123478088,
+        "courtesy_amount": 0.6780887561459106
+      }
+    },
+    {
+      "image": "ac03469.png",
+      "iou": {
+        "legal_amount": 0.7501747123342547,
+        "courtesy_amount": 0.3747432176185257
+      }
+    },
+    {
+      "image": "ac03470.png",
+      "iou": {
+        "legal_amount": 0.8154045875931367,
+        "courtesy_amount": 0.39554790396724954
+      }
+    },
+    {
+      "image": "ac03471.png",
+      "iou": {
+        "legal_amount": 0.6608028391763012,
+        "courtesy_amount": 0.6107832842667748
+      }
+    },
+    {
+      "image": "ac03474.png",
+      "iou": {
+        "legal_amount": 0.6596137758395523,
+        "courtesy_amount": 0.277468715731272
+      }
+    },
+    {
+      "image": "ac03476.png",
+      "iou": {
+        "legal_amount": 0.7632173518657714,
+        "courtesy_amount": 0.0
+      }
+    },
+    {
+      "image": "ac03479.png",
+      "iou": {
+        "legal_amount": 0.7733852647226721,
+        "courtesy_amount": 0.5590810754521406
+      }
+    },
+    {
+      "image": "ac03480.png",
+      "iou": {
+        "legal_amount": 0.8497732492966459,
+        "courtesy_amount": 0.3445828858111278
+      }
+    },
+    {
+      "image": "ac03481.png",
+      "iou": {
+        "legal_amount": 0.7379481697883702,
+        "courtesy_amount": 0.30218246709167335
+      }
+    },
+    {
+      "image": "ac03483.png",
+      "iou": {
+        "legal_amount": 0.7043489331353887,
+        "courtesy_amount": 0.2852314994334862
+      }
+    },
+    {
+      "image": "ac03484.png",
+      "iou": {
+        "legal_amount": 0.6437260032501649,
+        "courtesy_amount": 0.2619679008551816
+      }
+    },
+    {
+      "image": "ac03485.png",
+      "iou": {
+        "legal_amount": 0.5821591959116512,
+        "courtesy_amount": 0.8242648198055839
+      }
+    },
+    {
+      "image": "ac03486.png",
+      "iou": {
+        "legal_amount": 0.7338446642025702,
+        "courtesy_amount": 0.8218920901082185
+      }
+    },
+    {
+      "image": "ac03487.png",
+      "iou": {
+        "legal_amount": 0.6667632042049345,
+        "courtesy_amount": 0.38885487396893886
+      }
+    },
+    {
+      "image": "ac03488.png",
+      "iou": {
+        "legal_amount": 0.7710229407153798,
+        "courtesy_amount": 0.33696577642961323
+      }
+    },
+    {
+      "image": "ac03489.png",
+      "iou": {
+        "legal_amount": 0.7740295283912926,
+        "courtesy_amount": 0.677196254011838
+      }
+    },
+    {
+      "image": "ac03490.png",
+      "iou": {
+        "legal_amount": 0.6609041386709787,
+        "courtesy_amount": 0.1313745187615198
+      }
+    },
+    {
+      "image": "ac03491.png",
+      "iou": {
+        "legal_amount": 0.5936284965251882,
+        "courtesy_amount": 0.20801620014737063
+      }
+    },
+    {
+      "image": "ac03492.png",
+      "iou": {
+        "legal_amount": 0.8315775533974096,
+        "courtesy_amount": 0.6434019850645538
+      }
+    },
+    {
+      "image": "ac03493.png",
+      "iou": {
+        "legal_amount": 0.8255868340977155,
+        "courtesy_amount": 0.5371949232647543
+      }
+    },
+    {
+      "image": "ac03495.png",
+      "iou": {
+        "legal_amount": 0.7630488952687435,
+        "courtesy_amount": 0.2336573975084916
+      }
+    },
+    {
+      "image": "ac03496.png",
+      "iou": {
+        "legal_amount": 0.6022203315332123,
+        "courtesy_amount": 0.45539610510526785
+      }
+    },
+    {
+      "image": "ac03497.png",
+      "iou": {
+        "legal_amount": 0.7704232870896223,
+        "courtesy_amount": 0.6232516289594044
+      }
+    },
+    {
+      "image": "ac03498.png",
+      "iou": {
+        "legal_amount": 0.7416197892469949,
+        "courtesy_amount": 0.8172772219036722
+      }
+    },
+    {
+      "image": "ac03500.png",
+      "iou": {
+        "legal_amount": 0.6687596901078776,
+        "courtesy_amount": 0.33619699832329036
+      }
+    },
+    {
+      "image": "ac03501.png",
+      "iou": {
+        "legal_amount": 0.5447982646197054,
+        "courtesy_amount": 0.5220639389620116
+      }
+    },
+    {
+      "image": "ac03503.png",
+      "iou": {
+        "legal_amount": 0.6279296943144472,
+        "courtesy_amount": 0.19899255145589512
+      }
+    },
+    {
+      "image": "ac03504.png",
+      "iou": {
+        "legal_amount": 0.6852955401315247,
+        "courtesy_amount": 0.4929894399627841
+      }
+    },
+    {
+      "image": "ac03505.png",
+      "iou": {
+        "legal_amount": 0.8133765691237297,
+        "courtesy_amount": 0.5168772869861019
+      }
+    },
+    {
+      "image": "ac03509.png",
+      "iou": {
+        "legal_amount": 0.7316294265457923,
+        "courtesy_amount": 0.5118460830349434
+      }
+    },
+    {
+      "image": "ac03510.png",
+      "iou": {
+        "legal_amount": 0.6082450446001842,
+        "courtesy_amount": 0.4327018506457394
+      }
+    },
+    {
+      "image": "ac03511.png",
+      "iou": {
+        "legal_amount": 0.6152727417028362,
+        "courtesy_amount": 0.728576767028438
+      }
+    },
+    {
+      "image": "ac03512.png",
+      "iou": {
+        "legal_amount": 0.8248963915084522,
+        "courtesy_amount": 0.49445568104193355
+      }
+    },
+    {
+      "image": "ac03513.png",
+      "iou": {
+        "legal_amount": 0.8147703158418006,
+        "courtesy_amount": 0.6848933460456931
+      }
+    },
+    {
+      "image": "ac03514.png",
+      "iou": {
+        "legal_amount": 0.6902476918892501,
+        "courtesy_amount": 0.5080099319558078
+      }
+    },
+    {
+      "image": "ac03517.png",
+      "iou": {
+        "legal_amount": 0.6540958478981889,
+        "courtesy_amount": 0.24834157413322827
+      }
+    },
+    {
+      "image": "ac03518.png",
+      "iou": {
+        "legal_amount": 0.6922191343565982,
+        "courtesy_amount": 0.1391552673832134
+      }
+    },
+    {
+      "image": "ac03519.png",
+      "iou": {
+        "legal_amount": 0.7831918334620787,
+        "courtesy_amount": 0.6652501160163182
+      }
+    },
+    {
+      "image": "ac03520.png",
+      "iou": {
+        "legal_amount": 0.6902509529451313,
+        "courtesy_amount": 0.7317198446235358
+      }
+    },
+    {
+      "image": "ac03521.png",
+      "iou": {
+        "legal_amount": 0.5094598804098001,
+        "courtesy_amount": 0.6849426647353923
+      }
+    },
+    {
+      "image": "ac03528.png",
+      "iou": {
+        "legal_amount": 0.9192446165022724,
+        "courtesy_amount": 0.5548669841651481
+      }
+    },
+    {
+      "image": "ac03529.png",
+      "iou": {
+        "legal_amount": 0.8462780975786972,
+        "courtesy_amount": 0.815517997695059
+      }
+    },
+    {
+      "image": "ac03530.png",
+      "iou": {
+        "legal_amount": 0.8014566457578624,
+        "courtesy_amount": 0.7052671981817662
+      }
+    },
+    {
+      "image": "ac03532.png",
+      "iou": {
+        "legal_amount": 0.7858991999803098,
+        "courtesy_amount": 0.5539541866217172
+      }
+    },
+    {
+      "image": "ac03534.png",
+      "iou": {
+        "legal_amount": 0.837787335217872,
+        "courtesy_amount": 0.5610233303925044
+      }
+    },
+    {
+      "image": "ac03535.png",
+      "iou": {
+        "legal_amount": 0.8203934671144437,
+        "courtesy_amount": 0.6174577262410449
+      }
+    },
+    {
+      "image": "ac03536.png",
+      "iou": {
+        "legal_amount": 0.926674160019166,
+        "courtesy_amount": 0.4949105050263471
+      }
+    },
+    {
+      "image": "ac03537.png",
+      "iou": {
+        "legal_amount": 0.8906258933568704,
+        "courtesy_amount": 0.5787287149438531
+      }
+    },
+    {
+      "image": "ac03542.png",
+      "iou": {
+        "legal_amount": 0.7800946893887397,
+        "courtesy_amount": 0.5108021399762194
+      }
+    },
+    {
+      "image": "ac03543.png",
+      "iou": {
+        "legal_amount": 0.6627891366465639,
+        "courtesy_amount": 0.4039076927405085
+      }
+    },
+    {
+      "image": "ac03544.png",
+      "iou": {
+        "legal_amount": 0.48651736223675646,
+        "courtesy_amount": 0.5729738781890528
+      }
+    },
+    {
+      "image": "ac03545.png",
+      "iou": {
+        "legal_amount": 0.8372812161894323,
+        "courtesy_amount": 0.48780887986906224
+      }
+    },
+    {
+      "image": "ac03548.png",
+      "iou": {
+        "legal_amount": 0.50574542486283,
+        "courtesy_amount": 0.34608039985256345
+      }
+    },
+    {
+      "image": "ac03550.png",
+      "iou": {
+        "legal_amount": 0.6475049373726846,
+        "courtesy_amount": 0.3175091362656739
+      }
+    },
+    {
+      "image": "ac03551.png",
+      "iou": {
+        "legal_amount": 0.659272926814829,
+        "courtesy_amount": 0.5323127330645271
+      }
+    },
+    {
+      "image": "ac03552.png",
+      "iou": {
+        "legal_amount": 0.8931178329714924,
+        "courtesy_amount": 0.47300382249971296
+      }
+    },
+    {
+      "image": "ac03553.png",
+      "iou": {
+        "legal_amount": 0.8800613263067151,
+        "courtesy_amount": 0.6693784601316201
+      }
+    },
+    {
+      "image": "ac03560.png",
+      "iou": {
+        "legal_amount": 0.6472398247311439,
+        "courtesy_amount": 0.14015084025760502
+      }
+    },
+    {
+      "image": "ac03561.png",
+      "iou": {
+        "legal_amount": 0.5038690387846175,
+        "courtesy_amount": 0.36790108837322466
+      }
+    },
+    {
+      "image": "ac03562.png",
+      "iou": {
+        "legal_amount": 0.6208262971100225,
+        "courtesy_amount": 0.41233139293492854
+      }
+    },
+    {
+      "image": "ac03563.png",
+      "iou": {
+        "legal_amount": 0.6075306542854619,
+        "courtesy_amount": 0.6633616793196713
+      }
+    },
+    {
+      "image": "ac03564.png",
+      "iou": {
+        "legal_amount": 0.6087651668264492,
+        "courtesy_amount": 0.3381276222035299
+      }
+    },
+    {
+      "image": "ac03569.png",
+      "iou": {
+        "legal_amount": 0.4756541782807576,
+        "courtesy_amount": 0.4399177678467049
+      }
+    },
+    {
+      "image": "ac03570.png",
+      "iou": {
+        "legal_amount": 0.7896540582121075,
+        "courtesy_amount": 0.5442920188898864
+      }
+    },
+    {
+      "image": "ac03571.png",
+      "iou": {
+        "legal_amount": 0.5739225110575014,
+        "courtesy_amount": 0.31997413048641926
+      }
+    },
+    {
+      "image": "ac03573.png",
+      "iou": {
+        "legal_amount": 0.8362568963044106,
+        "courtesy_amount": 0.3383923160909245
+      }
+    },
+    {
+      "image": "ac03575.png",
+      "iou": {
+        "legal_amount": 0.6130560097389156,
+        "courtesy_amount": 0.4692086232171897
+      }
+    },
+    {
+      "image": "ac03576.png",
+      "iou": {
+        "legal_amount": 0.5408481623888762,
+        "courtesy_amount": 0.2511791353793563
+      }
+    },
+    {
+      "image": "ac03578.png",
+      "iou": {
+        "legal_amount": 0.8137797024265643,
+        "courtesy_amount": 0.3722533425613445
+      }
+    },
+    {
+      "image": "ac03579.png",
+      "iou": {
+        "legal_amount": 0.455569963754405,
+        "courtesy_amount": 0.46214167424927105
+      }
+    },
+    {
+      "image": "ac03580.png",
+      "iou": {
+        "legal_amount": 0.5126153860204415,
+        "courtesy_amount": 0.4266705562635753
+      }
+    },
+    {
+      "image": "ac03582.png",
+      "iou": {
+        "legal_amount": 0.7674461330591765,
+        "courtesy_amount": 0.5933447023711557
+      }
+    },
+    {
+      "image": "ac03583.png",
+      "iou": {
+        "legal_amount": 0.6520925791130082,
+        "courtesy_amount": 0.625933298326102
+      }
+    },
+    {
+      "image": "ac03585.png",
+      "iou": {
+        "legal_amount": 0.8511188716233578,
+        "courtesy_amount": 0.5807815595913812
+      }
+    },
+    {
+      "image": "ac03588.png",
+      "iou": {
+        "legal_amount": 0.4947948825836957,
+        "courtesy_amount": 0.6529038175003271
+      }
+    },
+    {
+      "image": "ac03593.png",
+      "iou": {
+        "legal_amount": 0.8176152968401387,
+        "courtesy_amount": 0.3637880586181454
+      }
+    },
+    {
+      "image": "ac03598.png",
+      "iou": {
+        "legal_amount": 0.8789456577242122,
+        "courtesy_amount": 0.5282426179922768
+      }
+    },
+    {
+      "image": "ac03600.png",
+      "iou": {
+        "legal_amount": 0.6878716748184736,
+        "courtesy_amount": 0.5467314228123936
+      }
+    },
+    {
+      "image": "ac03602.png",
+      "iou": {
+        "legal_amount": 0.7239721913957899,
+        "courtesy_amount": 0.24915806141938246
+      }
+    },
+    {
+      "image": "ac03605.png",
+      "iou": {
+        "legal_amount": 0.4507944887858583,
+        "courtesy_amount": 0.24193348504672918
+      }
+    },
+    {
+      "image": "ac03606.png",
+      "iou": {
+        "legal_amount": 0.7128493249812831,
+        "courtesy_amount": 0.28629319249579865
+      }
+    },
+    {
+      "image": "ac03607.png",
+      "iou": {
+        "legal_amount": 0.6742921894830521,
+        "courtesy_amount": 0.5000249927751005
+      }
+    },
+    {
+      "image": "ac03613.png",
+      "iou": {
+        "legal_amount": 0.44099027184598033,
+        "courtesy_amount": 0.2501897816888439
+      }
+    },
+    {
+      "image": "ac03614.png",
+      "iou": {
+        "legal_amount": 0.6825531132821748,
+        "courtesy_amount": 0.7110949382833707
+      }
+    },
+    {
+      "image": "ac03615.png",
+      "iou": {
+        "legal_amount": 0.5983023759473496,
+        "courtesy_amount": 0.7489455264990854
+      }
+    },
+    {
+      "image": "ac03616.png",
+      "iou": {
+        "legal_amount": 0.6865188072816794,
+        "courtesy_amount": 0.35778637646654415
+      }
+    },
+    {
+      "image": "ac03620.png",
+      "iou": {
+        "legal_amount": 0.6779145344205709,
+        "courtesy_amount": 0.13777434396386243
+      }
+    },
+    {
+      "image": "ac03622.png",
+      "iou": {
+        "legal_amount": 0.7046637609694854,
+        "courtesy_amount": 0.28895907714989744
+      }
+    },
+    {
+      "image": "ac03623.png",
+      "iou": {
+        "legal_amount": 0.8305496457914804,
+        "courtesy_amount": 0.4961288306192158
+      }
+    },
+    {
+      "image": "ac03626.png",
+      "iou": {
+        "legal_amount": 0.6681893831773182,
+        "courtesy_amount": 0.6089741739398002
+      }
+    },
+    {
+      "image": "ac03628.png",
+      "iou": {
+        "legal_amount": 0.8177579426835007,
+        "courtesy_amount": 0.5929799755789202
+      }
+    },
+    {
+      "image": "ac03629.png",
+      "iou": {
+        "legal_amount": 0.770990839959062,
+        "courtesy_amount": 0.2818891703497525
+      }
+    },
+    {
+      "image": "ac03631.png",
+      "iou": {
+        "legal_amount": 0.9641027560253985,
+        "courtesy_amount": 0.3596057985242125
+      }
+    },
+    {
+      "image": "ac03633.png",
+      "iou": {
+        "legal_amount": 0.9028267990816096,
+        "courtesy_amount": 0.6928651916651067
+      }
+    },
+    {
+      "image": "ac03635.png",
+      "iou": {
+        "legal_amount": 0.8135203491602846,
+        "courtesy_amount": 0.5944564447851924
+      }
+    },
+    {
+      "image": "ac03638.png",
+      "iou": {
+        "legal_amount": 0.7895173623365139,
+        "courtesy_amount": 0.558298095858475
+      }
+    },
+    {
+      "image": "ac03639.png",
+      "iou": {
+        "legal_amount": 0.8243757187297927,
+        "courtesy_amount": 0.6767932188376614
+      }
+    },
+    {
+      "image": "ac03641.png",
+      "iou": {
+        "legal_amount": 0.7573115536822127,
+        "courtesy_amount": 0.48848658542758516
+      }
+    },
+    {
+      "image": "ac03643.png",
+      "iou": {
+        "legal_amount": 0.7336349746040369,
+        "courtesy_amount": 0.42348736660528996
+      }
+    },
+    {
+      "image": "ac03644.png",
+      "iou": {
+        "legal_amount": 0.8601427973161729,
+        "courtesy_amount": 0.6641333868932684
+      }
+    },
+    {
+      "image": "ac03646.png",
+      "iou": {
+        "legal_amount": 0.7510110962766163,
+        "courtesy_amount": 0.7562933810618789
+      }
+    },
+    {
+      "image": "ac03647.png",
+      "iou": {
+        "legal_amount": 0.9477820930521927,
+        "courtesy_amount": 0.45749826971481705
+      }
+    },
+    {
+      "image": "ac03648.png",
+      "iou": {
+        "legal_amount": 0.8458522086760911,
+        "courtesy_amount": 0.49195647920907026
+      }
+    },
+    {
+      "image": "ac03650.png",
+      "iou": {
+        "legal_amount": 0.8873279751980425,
+        "courtesy_amount": 0.5639034649399328
+      }
+    },
+    {
+      "image": "ac03652.png",
+      "iou": {
+        "legal_amount": 0.3082619931168653,
+        "courtesy_amount": 0.3441807455225538
+      }
+    },
+    {
+      "image": "ac03653.png",
+      "iou": {
+        "legal_amount": 0.7954845645852726,
+        "courtesy_amount": 0.4204617079181566
+      }
+    },
+    {
+      "image": "ac03660.png",
+      "iou": {
+        "legal_amount": 0.734793753660248,
+        "courtesy_amount": 0.41517106851954266
+      }
+    },
+    {
+      "image": "ac03664.png",
+      "iou": {
+        "legal_amount": 0.7601178875758858,
+        "courtesy_amount": 0.46911075570663263
+      }
+    },
+    {
+      "image": "ac03665.png",
+      "iou": {
+        "legal_amount": 0.601483137813742,
+        "courtesy_amount": 0.7696443129356247
+      }
+    },
+    {
+      "image": "ac03669.png",
+      "iou": {
+        "legal_amount": 0.6791370197691061,
+        "courtesy_amount": 0.27828350484371167
+      }
+    },
+    {
+      "image": "ac03673.png",
+      "iou": {
+        "legal_amount": 0.924134867165107,
+        "courtesy_amount": 0.3764785731385238
+      }
+    },
+    {
+      "image": "ac03674.png",
+      "iou": {
+        "legal_amount": 0.821564957869266,
+        "courtesy_amount": 0.5114284873029211
+      }
+    },
+    {
+      "image": "ac03675.png",
+      "iou": {
+        "legal_amount": 0.7081753387053705,
+        "courtesy_amount": 0.7075612642259156
+      }
+    },
+    {
+      "image": "ac03676.png",
+      "iou": {
+        "legal_amount": 0.612939985971671,
+        "courtesy_amount": 0.3894247920935641
+      }
+    },
+    {
+      "image": "ac03677.png",
+      "iou": {
+        "legal_amount": 0.749884687849504,
+        "courtesy_amount": 0.3790484241600215
+      }
+    },
+    {
+      "image": "ac03679.png",
+      "iou": {
+        "legal_amount": 0.5971085380504105,
+        "courtesy_amount": 0.3526856843729066
+      }
+    },
+    {
+      "image": "ac03680.png",
+      "iou": {
+        "legal_amount": 0.7673569893677128,
+        "courtesy_amount": 0.5890081352893409
+      }
+    },
+    {
+      "image": "ac03681.png",
+      "iou": {
+        "legal_amount": 0.6061180105476789,
+        "courtesy_amount": 0.6067265574318859
+      }
+    },
+    {
+      "image": "ac03684.png",
+      "iou": {
+        "legal_amount": 0.7415133504438712,
+        "courtesy_amount": 0.4034148791643737
+      }
+    },
+    {
+      "image": "ac03688.png",
+      "iou": {
+        "legal_amount": 0.8080401462589463,
+        "courtesy_amount": 0.5248469393495057
+      }
+    },
+    {
+      "image": "ac03689.png",
+      "iou": {
+        "legal_amount": 0.8920313829983795,
+        "courtesy_amount": 0.3135139160206286
+      }
+    },
+    {
+      "image": "ac03692.png",
+      "iou": {
+        "legal_amount": 0.890609861034912,
+        "courtesy_amount": 0.4771344141067214
+      }
+    },
+    {
+      "image": "ac03693.png",
+      "iou": {
+        "legal_amount": 0.6274371291408584,
+        "courtesy_amount": 0.41088775109426623
+      }
+    },
+    {
+      "image": "ac03697.png",
+      "iou": {
+        "legal_amount": 0.7359187529646846,
+        "courtesy_amount": 0.9236890718851524
+      }
+    },
+    {
+      "image": "ac03700.png",
+      "iou": {
+        "legal_amount": 0.6116493378771936,
+        "courtesy_amount": 0.5961656506717652
+      }
+    },
+    {
+      "image": "ac03701.png",
+      "iou": {
+        "legal_amount": 0.6654793245908774,
+        "courtesy_amount": 0.5745052176447072
+      }
+    },
+    {
+      "image": "ac03706.png",
+      "iou": {
+        "legal_amount": 0.7718232887046494,
+        "courtesy_amount": 0.3266906126990006
+      }
+    },
+    {
+      "image": "ac03707.png",
+      "iou": {
+        "legal_amount": 0.9266872179445473,
+        "courtesy_amount": 0.4632254423058786
+      }
+    },
+    {
+      "image": "ac03709.png",
+      "iou": {
+        "legal_amount": 0.7426413184490074,
+        "courtesy_amount": 0.5023148091206816
+      }
+    },
+    {
+      "image": "ac03710.png",
+      "iou": {
+        "legal_amount": 0.740522372749382,
+        "courtesy_amount": 0.5671970748443061
+      }
+    },
+    {
+      "image": "ac03711.png",
+      "iou": {
+        "legal_amount": 0.6078061034909137,
+        "courtesy_amount": 0.614950339547519
+      }
+    },
+    {
+      "image": "ac03712.png",
+      "iou": {
+        "legal_amount": 0.7530513007306525,
+        "courtesy_amount": 0.28804240440409523
+      }
+    },
+    {
+      "image": "ac03718.png",
+      "iou": {
+        "legal_amount": 0.606962028884115,
+        "courtesy_amount": 0.6288388125867773
+      }
+    },
+    {
+      "image": "ac03722.png",
+      "iou": {
+        "legal_amount": 0.7447686291633936,
+        "courtesy_amount": 0.5367626054262787
+      }
+    },
+    {
+      "image": "ac03728.png",
+      "iou": {
+        "legal_amount": 0.7876003194540956,
+        "courtesy_amount": 0.2276013124915835
+      }
+    },
+    {
+      "image": "ac03729.png",
+      "iou": {
+        "legal_amount": 0.7926134208438488,
+        "courtesy_amount": 0.3613848796136207
+      }
+    },
+    {
+      "image": "ac03730.png",
+      "iou": {
+        "legal_amount": 0.669723992139748,
+        "courtesy_amount": 0.17810338039308068
+      }
+    },
+    {
+      "image": "ac03734.png",
+      "iou": {
+        "legal_amount": 0.8084822987488112,
+        "courtesy_amount": 0.5296865693924513
+      }
+    },
+    {
+      "image": "ac03735.png",
+      "iou": {
+        "legal_amount": 0.7970718209043071,
+        "courtesy_amount": 0.4711925692819373
+      }
+    },
+    {
+      "image": "ac03736.png",
+      "iou": {
+        "legal_amount": 0.8316844627618157,
+        "courtesy_amount": 0.6158070064991236
+      }
+    },
+    {
+      "image": "ac03739.png",
+      "iou": {
+        "legal_amount": 0.7578510869679422,
+        "courtesy_amount": 0.2300313462677862
+      }
+    },
+    {
+      "image": "ac03740.png",
+      "iou": {
+        "legal_amount": 0.5481871331977014,
+        "courtesy_amount": 0.5451209001108144
+      }
+    },
+    {
+      "image": "ac03741.png",
+      "iou": {
+        "legal_amount": 0.8987197152928998,
+        "courtesy_amount": 0.4358494886933507
+      }
+    },
+    {
+      "image": "ac03743.png",
+      "iou": {
+        "legal_amount": 0.8555227874438911,
+        "courtesy_amount": 0.24566322822196365
+      }
+    },
+    {
+      "image": "ac03744.png",
+      "iou": {
+        "legal_amount": 0.7429277313424197,
+        "courtesy_amount": 0.28951814462645725
+      }
+    },
+    {
+      "image": "ac03751.png",
+      "iou": {
+        "legal_amount": 0.8878991763506573,
+        "courtesy_amount": 0.5525728479937244
+      }
+    },
+    {
+      "image": "ac03753.png",
+      "iou": {
+        "legal_amount": 0.6803072736769287,
+        "courtesy_amount": 0.5604354428769392
+      }
+    },
+    {
+      "image": "ac03755.png",
+      "iou": {
+        "legal_amount": 0.8741933183786239,
+        "courtesy_amount": 0.42529951574985597
+      }
+    },
+    {
+      "image": "ac03756.png",
+      "iou": {
+        "legal_amount": 0.8258996169696503,
+        "courtesy_amount": 0.665344165658167
+      }
+    },
+    {
+      "image": "ac03757.png",
+      "iou": {
+        "legal_amount": 0.7342172271074984,
+        "courtesy_amount": 0.573020030805905
+      }
+    },
+    {
+      "image": "ac03758.png",
+      "iou": {
+        "legal_amount": 0.7975387213356139,
+        "courtesy_amount": 0.6378025661459291
+      }
+    },
+    {
+      "image": "ac03759.png",
+      "iou": {
+        "legal_amount": 0.9343771824438478,
+        "courtesy_amount": 0.5713200706240353
+      }
+    },
+    {
+      "image": "ac03762.png",
+      "iou": {
+        "legal_amount": 0.885833060115239,
+        "courtesy_amount": 0.5052121201247389
+      }
+    },
+    {
+      "image": "ac03768.png",
+      "iou": {
+        "legal_amount": 0.6882088722527767,
+        "courtesy_amount": 0.5890479412662176
+      }
+    },
+    {
+      "image": "ac03772.png",
+      "iou": {
+        "legal_amount": 0.9446016958959658,
+        "courtesy_amount": 0.1330952321308605
+      }
+    },
+    {
+      "image": "ac03775.png",
+      "iou": {
+        "legal_amount": 0.9348003350640948,
+        "courtesy_amount": 0.45457277952938446
+      }
+    },
+    {
+      "image": "ac03776.png",
+      "iou": {
+        "legal_amount": 0.700583894696777,
+        "courtesy_amount": 0.4819511059619894
+      }
+    },
+    {
+      "image": "ac03778.png",
+      "iou": {
+        "legal_amount": 0.7656477919617598,
+        "courtesy_amount": 0.4286921641822643
+      }
+    },
+    {
+      "image": "ac03779.png",
+      "iou": {
+        "legal_amount": 0.679644866673995,
+        "courtesy_amount": 0.33196381034658234
+      }
+    },
+    {
+      "image": "ac03780.png",
+      "iou": {
+        "legal_amount": 0.8363529942651063,
+        "courtesy_amount": 0.4533492966070429
+      }
+    },
+    {
+      "image": "ac03781.png",
+      "iou": {
+        "legal_amount": 0.7274339514977745,
+        "courtesy_amount": 0.9217159415696903
+      }
+    },
+    {
+      "image": "ac03785.png",
+      "iou": {
+        "legal_amount": 0.8252837133440639,
+        "courtesy_amount": 0.5504112911943941
+      }
+    },
+    {
+      "image": "ac03787.png",
+      "iou": {
+        "legal_amount": 0.6395126284690165,
+        "courtesy_amount": 0.24160336538213478
+      }
+    },
+    {
+      "image": "ac03789.png",
+      "iou": {
+        "legal_amount": 0.7186381632870087,
+        "courtesy_amount": 0.435632125339478
+      }
+    },
+    {
+      "image": "ac03791.png",
+      "iou": {
+        "legal_amount": 0.8166397279755435,
+        "courtesy_amount": 0.22190573480086698
+      }
+    },
+    {
+      "image": "ac03794.png",
+      "iou": {
+        "legal_amount": 0.739269104112437,
+        "courtesy_amount": 0.2828293488578028
+      }
+    },
+    {
+      "image": "ac03795.png",
+      "iou": {
+        "legal_amount": 0.8895129239378939,
+        "courtesy_amount": 0.2938787369916202
+      }
+    },
+    {
+      "image": "ac03796.png",
+      "iou": {
+        "legal_amount": 0.6118795552261377,
+        "courtesy_amount": 0.34553751907125874
+      }
+    },
+    {
+      "image": "ac03797.png",
+      "iou": {
+        "legal_amount": 0.8813428743401168,
+        "courtesy_amount": 0.6445586497408183
+      }
+    },
+    {
+      "image": "ac03799.png",
+      "iou": {
+        "legal_amount": 0.7544868444623186,
+        "courtesy_amount": 0.5379491070817753
+      }
+    },
+    {
+      "image": "ac03800.png",
+      "iou": {
+        "legal_amount": 0.7113380297119402,
+        "courtesy_amount": 0.2156400378147252
+      }
+    },
+    {
+      "image": "ac03802.png",
+      "iou": {
+        "legal_amount": 0.8052827265228285,
+        "courtesy_amount": 0.37101631168310084
+      }
+    },
+    {
+      "image": "ac03808.png",
+      "iou": {
+        "legal_amount": 0.5193067145553046,
+        "courtesy_amount": 0.45243759802014993
+      }
+    },
+    {
+      "image": "ac03809.png",
+      "iou": {
+        "legal_amount": 0.6685742844191342,
+        "courtesy_amount": 0.8189573480625503
+      }
+    },
+    {
+      "image": "ac03814.png",
+      "iou": {
+        "legal_amount": 0.5407608483237667,
+        "courtesy_amount": 0.92913001411766
+      }
+    },
+    {
+      "image": "ac03815.png",
+      "iou": {
+        "legal_amount": 0.679852371502125,
+        "courtesy_amount": 0.614271261958571
+      }
+    },
+    {
+      "image": "ac03816.png",
+      "iou": {
+        "legal_amount": 0.8153259927344244,
+        "courtesy_amount": 0.41814713049464597
+      }
+    },
+    {
+      "image": "ac03819.png",
+      "iou": {
+        "legal_amount": 0.7650339930034388,
+        "courtesy_amount": 0.46899771598536083
+      }
+    },
+    {
+      "image": "ac03822.png",
+      "iou": {
+        "legal_amount": 0.690378021806189,
+        "courtesy_amount": 0.29950550622499666
+      }
+    },
+    {
+      "image": "ac03823.png",
+      "iou": {
+        "legal_amount": 0.8026329185045853,
+        "courtesy_amount": 0.4435879089438582
+      }
+    },
+    {
+      "image": "ac03826.png",
+      "iou": {
+        "legal_amount": 0.7934485764815818,
+        "courtesy_amount": 0.491213719322689
+      }
+    },
+    {
+      "image": "ac03827.png",
+      "iou": {
+        "legal_amount": 0.854521826804366,
+        "courtesy_amount": 0.4920675196983058
+      }
+    },
+    {
+      "image": "ac03828.png",
+      "iou": {
+        "legal_amount": 0.505205199684258,
+        "courtesy_amount": 0.5711798330497009
+      }
+    },
+    {
+      "image": "ac03831.png",
+      "iou": {
+        "legal_amount": 0.7085732459531968,
+        "courtesy_amount": 0.4344932621778103
+      }
+    },
+    {
+      "image": "ac03836.png",
+      "iou": {
+        "legal_amount": 0.7934894544430374,
+        "courtesy_amount": 0.7303213357501008
+      }
+    },
+    {
+      "image": "ac03838.png",
+      "iou": {
+        "legal_amount": 0.575519104612087,
+        "courtesy_amount": 0.4639943999874428
+      }
+    },
+    {
+      "image": "ac03842.png",
+      "iou": {
+        "legal_amount": 0.7438753911093932,
+        "courtesy_amount": 0.5760418160344896
+      }
+    },
+    {
+      "image": "ac03843.png",
+      "iou": {
+        "legal_amount": 0.8313060519879212,
+        "courtesy_amount": 0.28382040382904633
+      }
+    },
+    {
+      "image": "ac03845.png",
+      "iou": {
+        "legal_amount": 0.8289087986275624,
+        "courtesy_amount": 0.8368712451823148
+      }
+    },
+    {
+      "image": "ac03846.png",
+      "iou": {
+        "legal_amount": 0.646359315186267,
+        "courtesy_amount": 0.18864283832427947
+      }
+    },
+    {
+      "image": "ac03847.png",
+      "iou": {
+        "legal_amount": 0.8533161460538738,
+        "courtesy_amount": 0.7634293716165605
+      }
+    },
+    {
+      "image": "ac03849.png",
+      "iou": {
+        "legal_amount": 0.7751018877761564,
+        "courtesy_amount": 0.7451973621638887
+      }
+    },
+    {
+      "image": "ac03855.png",
+      "iou": {
+        "legal_amount": 0.6514728471859121,
+        "courtesy_amount": 0.3666521709304943
+      }
+    },
+    {
+      "image": "ac03857.png",
+      "iou": {
+        "legal_amount": 0.7406393879065221,
+        "courtesy_amount": 0.4636598208629299
+      }
+    },
+    {
+      "image": "ac03858.png",
+      "iou": {
+        "legal_amount": 0.7545422479475881,
+        "courtesy_amount": 0.22594986123987604
+      }
+    },
+    {
+      "image": "ac03859.png",
+      "iou": {
+        "legal_amount": 0.8249572696704175,
+        "courtesy_amount": 0.361330658730215
+      }
+    },
+    {
+      "image": "ac03862.png",
+      "iou": {
+        "legal_amount": 0.783515700923548,
+        "courtesy_amount": 0.41038050138945803
+      }
+    },
+    {
+      "image": "ac03863.png",
+      "iou": {
+        "legal_amount": 0.5881300845291891,
+        "courtesy_amount": 0.48891661039822365
+      }
+    },
+    {
+      "image": "ac03866.png",
+      "iou": {
+        "legal_amount": 0.7134771034720588,
+        "courtesy_amount": 0.286808990746203
+      }
+    },
+    {
+      "image": "ac03869.png",
+      "iou": {
+        "legal_amount": 0.7700057812756715,
+        "courtesy_amount": 0.3937512637699594
+      }
+    },
+    {
+      "image": "ac03870.png",
+      "iou": {
+        "legal_amount": 0.8133504500614531,
+        "courtesy_amount": 0.20775942322926888
+      }
+    },
+    {
+      "image": "ac03873.png",
+      "iou": {
+        "legal_amount": 0.7526998061457972,
+        "courtesy_amount": 0.2893423519617774
+      }
+    },
+    {
+      "image": "ac03874.png",
+      "iou": {
+        "legal_amount": 0.8037254271296493,
+        "courtesy_amount": 0.5719091834857026
+      }
+    },
+    {
+      "image": "ac03875.png",
+      "iou": {
+        "legal_amount": 0.8781372002682211,
+        "courtesy_amount": 0.5642610456205843
+      }
+    },
+    {
+      "image": "ac03877.png",
+      "iou": {
+        "legal_amount": 0.7131595019501445,
+        "courtesy_amount": 0.6797274699777265
+      }
+    },
+    {
+      "image": "ac03878.png",
+      "iou": {
+        "legal_amount": 0.786564638093603,
+        "courtesy_amount": 0.3665081017193208
+      }
+    },
+    {
+      "image": "ac03880.png",
+      "iou": {
+        "legal_amount": 0.7751638204172858,
+        "courtesy_amount": 0.5919221165847394
+      }
+    },
+    {
+      "image": "ac03881.png",
+      "iou": {
+        "legal_amount": 0.8767721997115739,
+        "courtesy_amount": 0.38859301786905576
+      }
+    },
+    {
+      "image": "ac03882.png",
+      "iou": {
+        "legal_amount": 0.7584990287632498,
+        "courtesy_amount": 0.3291187897397609
+      }
+    },
+    {
+      "image": "ac03884.png",
+      "iou": {
+        "legal_amount": 0.7989099887189883,
+        "courtesy_amount": 0.5041989288323461
+      }
+    },
+    {
+      "image": "ac03887.png",
+      "iou": {
+        "legal_amount": 0.703317659204306,
+        "courtesy_amount": 0.2650727495722539
+      }
+    },
+    {
+      "image": "ac03888.png",
+      "iou": {
+        "legal_amount": 0.7812180965254957,
+        "courtesy_amount": 0.4032499939424356
+      }
+    },
+    {
+      "image": "ac03891.png",
+      "iou": {
+        "legal_amount": 0.8342030405782348,
+        "courtesy_amount": 0.42983353008658093
+      }
+    },
+    {
+      "image": "ac03892.png",
+      "iou": {
+        "legal_amount": 0.7734283581803295,
+        "courtesy_amount": 0.5424382070300542
+      }
+    },
+    {
+      "image": "ac03895.png",
+      "iou": {
+        "legal_amount": 0.7713984520646274,
+        "courtesy_amount": 0.6324652963223572
+      }
+    },
+    {
+      "image": "ac03899.png",
+      "iou": {
+        "legal_amount": 0.9326984691978675,
+        "courtesy_amount": 0.2712108935730033
+      }
+    },
+    {
+      "image": "ac03900.png",
+      "iou": {
+        "legal_amount": 0.7351787934299142,
+        "courtesy_amount": 0.2553017132977609
+      }
+    },
+    {
+      "image": "ac03901.png",
+      "iou": {
+        "legal_amount": 0.7418186362523699,
+        "courtesy_amount": 0.390598182726038
+      }
+    },
+    {
+      "image": "ac03903.png",
+      "iou": {
+        "legal_amount": 0.8289161321616582,
+        "courtesy_amount": 0.43396149972429326
+      }
+    },
+    {
+      "image": "ac03905.png",
+      "iou": {
+        "legal_amount": 0.7657333585914621,
+        "courtesy_amount": 0.4760229036336347
+      }
+    },
+    {
+      "image": "ac03910.png",
+      "iou": {
+        "legal_amount": 0.6105262344493044,
+        "courtesy_amount": 0.7721216114729961
+      }
+    },
+    {
+      "image": "ac03911.png",
+      "iou": {
+        "legal_amount": 0.8654294340327702,
+        "courtesy_amount": 0.5041726229550526
+      }
+    },
+    {
+      "image": "ac03914.png",
+      "iou": {
+        "legal_amount": 0.7439583849134123,
+        "courtesy_amount": 0.4869384913769349
+      }
+    },
+    {
+      "image": "ac03915.png",
+      "iou": {
+        "legal_amount": 0.8020350601705183,
+        "courtesy_amount": 0.9048014315458602
+      }
+    },
+    {
+      "image": "ac03918.png",
+      "iou": {
+        "legal_amount": 0.9510556530046587,
+        "courtesy_amount": 0.410183400985401
+      }
+    },
+    {
+      "image": "ac03921.png",
+      "iou": {
+        "legal_amount": 0.8358502420333113,
+        "courtesy_amount": 0.48639685802121263
+      }
+    },
+    {
+      "image": "ac03922.png",
+      "iou": {
+        "legal_amount": 0.6689374997588781,
+        "courtesy_amount": 0.18168807404145157
+      }
+    },
+    {
+      "image": "ac03923.png",
+      "iou": {
+        "legal_amount": 0.5940947550845487,
+        "courtesy_amount": 0.1770716458087221
+      }
+    },
+    {
+      "image": "ac03928.png",
+      "iou": {
+        "legal_amount": 0.9175587289330721,
+        "courtesy_amount": 0.29116711514082644
+      }
+    },
+    {
+      "image": "ac03929.png",
+      "iou": {
+        "legal_amount": 0.7545713472621455,
+        "courtesy_amount": 0.7997191453185601
+      }
+    },
+    {
+      "image": "ac03932.png",
+      "iou": {
+        "legal_amount": 0.6655062669737711,
+        "courtesy_amount": 0.4630012376531302
+      }
+    },
+    {
+      "image": "ac03936.png",
+      "iou": {
+        "legal_amount": 0.5733930608991868,
+        "courtesy_amount": 0.6286040386867608
+      }
+    },
+    {
+      "image": "ac03937.png",
+      "iou": {
+        "legal_amount": 0.9389950647349299,
+        "courtesy_amount": 0.5850130199559913
+      }
+    },
+    {
+      "image": "ac03938.png",
+      "iou": {
+        "legal_amount": 0.8644309438820447,
+        "courtesy_amount": 0.2490349861248987
+      }
+    },
+    {
+      "image": "ac03939.png",
+      "iou": {
+        "legal_amount": 0.7765137272083875,
+        "courtesy_amount": 0.3898576101815012
+      }
+    },
+    {
+      "image": "ac03940.png",
+      "iou": {
+        "legal_amount": 0.670135118745965,
+        "courtesy_amount": 0.6054432710020785
+      }
+    },
+    {
+      "image": "ac03941.png",
+      "iou": {
+        "legal_amount": 0.7480612643068586,
+        "courtesy_amount": 0.3489901932282825
+      }
+    },
+    {
+      "image": "ac03943.png",
+      "iou": {
+        "legal_amount": 0.6049741060599417,
+        "courtesy_amount": 0.5839936783000625
+      }
+    },
+    {
+      "image": "ac03945.png",
+      "iou": {
+        "legal_amount": 0.812345975477551,
+        "courtesy_amount": 0.6263057751208552
+      }
+    },
+    {
+      "image": "ac03946.png",
+      "iou": {
+        "legal_amount": 0.7779185548217818,
+        "courtesy_amount": 0.7097418641423185
+      }
+    },
+    {
+      "image": "ac03947.png",
+      "iou": {
+        "legal_amount": 0.5145809418756185,
+        "courtesy_amount": 0.4463807371906452
+      }
+    },
+    {
+      "image": "ac03948.png",
+      "iou": {
+        "legal_amount": 0.7515526438826133,
+        "courtesy_amount": 0.29635715857500916
+      }
+    },
+    {
+      "image": "ac03952.png",
+      "iou": {
+        "legal_amount": 0.796252176510747,
+        "courtesy_amount": 0.45526875847500364
+      }
+    },
+    {
+      "image": "ac03955.png",
+      "iou": {
+        "legal_amount": 0.600132204519715,
+        "courtesy_amount": 0.19410182359216796
+      }
+    },
+    {
+      "image": "ac03958.png",
+      "iou": {
+        "legal_amount": 0.739545065782483,
+        "courtesy_amount": 0.4098967389658101
+      }
+    },
+    {
+      "image": "ac03959.png",
+      "iou": {
+        "legal_amount": 0.6827155094914631,
+        "courtesy_amount": 0.41553624142125445
+      }
+    },
+    {
+      "image": "ac03962.png",
+      "iou": {
+        "legal_amount": 0.8651943193547698,
+        "courtesy_amount": 0.5753267149169312
+      }
+    },
+    {
+      "image": "ac03964.png",
+      "iou": {
+        "legal_amount": 0.7933928657420461,
+        "courtesy_amount": 0.3000961770020375
+      }
+    },
+    {
+      "image": "ac03967.png",
+      "iou": {
+        "legal_amount": 0.8950584229252679,
+        "courtesy_amount": 0.24552368357229762
+      }
+    },
+    {
+      "image": "ac03975.png",
+      "iou": {
+        "legal_amount": 0.6257335514733013,
+        "courtesy_amount": 0.3635406714977864
+      }
+    },
+    {
+      "image": "ac03976.png",
+      "iou": {
+        "legal_amount": 0.7227924191020615,
+        "courtesy_amount": 0.28959925539805453
+      }
+    },
+    {
+      "image": "ac03979.png",
+      "iou": {
+        "legal_amount": 0.0,
+        "courtesy_amount": 0.3643397074324275
+      }
+    },
+    {
+      "image": "ac03983.png",
+      "iou": {
+        "legal_amount": 0.6054039072815162,
+        "courtesy_amount": 0.5166350467977788
+      }
+    },
+    {
+      "image": "ac03984.png",
+      "iou": {
+        "legal_amount": 0.8383861217567009,
+        "courtesy_amount": 0.6115327629000179
+      }
+    },
+    {
+      "image": "ac03986.png",
+      "iou": {
+        "legal_amount": 0.7813690408098403,
+        "courtesy_amount": 0.48117343446179756
+      }
+    },
+    {
+      "image": "ac03987.png",
+      "iou": {
+        "legal_amount": 0.6098529551524379,
+        "courtesy_amount": 0.5829252876819597
+      }
+    },
+    {
+      "image": "ac03989.png",
+      "iou": {
+        "legal_amount": 0.7942745070349919,
+        "courtesy_amount": 0.6523763124592028
+      }
+    },
+    {
+      "image": "ac03990.png",
+      "iou": {
+        "legal_amount": 0.5453441667823882,
+        "courtesy_amount": 0.4424872132893397
+      }
+    },
+    {
+      "image": "ac03991.png",
+      "iou": {
+        "legal_amount": 0.6761095420135077,
+        "courtesy_amount": 0.7681265801792003
+      }
+    },
+    {
+      "image": "ac03994.png",
+      "iou": {
+        "legal_amount": 0.8160505358476153,
+        "courtesy_amount": 0.8308148307495566
+      }
+    },
+    {
+      "image": "ac03995.png",
+      "iou": {
+        "legal_amount": 0.7270055421839694,
+        "courtesy_amount": 0.6025996914240389
+      }
+    },
+    {
+      "image": "ac03996.png",
+      "iou": {
+        "legal_amount": 0.8494665672460181,
+        "courtesy_amount": 0.514683704107105
+      }
+    },
+    {
+      "image": "ac03997.png",
+      "iou": {
+        "legal_amount": 0.7685278489375631,
+        "courtesy_amount": 0.4314431931594712
+      }
+    },
+    {
+      "image": "ac03998.png",
+      "iou": {
+        "legal_amount": 0.6603435146235244,
+        "courtesy_amount": 0.4939119703189603
+      }
+    },
+    {
+      "image": "ac04000.png",
+      "iou": {
+        "legal_amount": 0.8503432932210179,
+        "courtesy_amount": 0.681595841440976
+      }
+    },
+    {
+      "image": "ac04002.png",
+      "iou": {
+        "legal_amount": 0.7593296013522529,
+        "courtesy_amount": 0.23317479334936703
+      }
+    },
+    {
+      "image": "ac04004.png",
+      "iou": {
+        "legal_amount": 0.8122219286254954,
+        "courtesy_amount": 0.5803495889829834
+      }
+    },
+    {
+      "image": "ac04005.png",
+      "iou": {
+        "legal_amount": 0.7477406430486518,
+        "courtesy_amount": 0.19258108684877084
+      }
+    },
+    {
+      "image": "ac04007.png",
+      "iou": {
+        "legal_amount": 0.3599783814303867,
+        "courtesy_amount": 0.17911426253803076
+      }
+    },
+    {
+      "image": "ac04008.png",
+      "iou": {
+        "legal_amount": 0.46774946952654206,
+        "courtesy_amount": 0.38613872372347813
+      }
+    },
+    {
+      "image": "ac04010.png",
+      "iou": {
+        "legal_amount": 0.5027420612368083,
+        "courtesy_amount": 0.40135756555300417
+      }
+    },
+    {
+      "image": "ac04012.png",
+      "iou": {
+        "legal_amount": 0.6877068708112754,
+        "courtesy_amount": 0.5521440689153729
+      }
+    },
+    {
+      "image": "ac04015.png",
+      "iou": {
+        "legal_amount": 0.8938078645736814,
+        "courtesy_amount": 0.42846943485335426
+      }
+    },
+    {
+      "image": "ac04017.png",
+      "iou": {
+        "legal_amount": 0.9308986076351843,
+        "courtesy_amount": 0.32562912121647947
+      }
+    },
+    {
+      "image": "ac04020.png",
+      "iou": {
+        "legal_amount": 0.7519055128110856,
+        "courtesy_amount": 0.46778016705276526
+      }
+    },
+    {
+      "image": "ac04021.png",
+      "iou": {
+        "legal_amount": 0.811129765835425,
+        "courtesy_amount": 0.45930851160966085
+      }
+    },
+    {
+      "image": "ac04022.png",
+      "iou": {
+        "legal_amount": 0.44030664476411935,
+        "courtesy_amount": 0.46378557336595244
+      }
+    },
+    {
+      "image": "ac04023.png",
+      "iou": {
+        "legal_amount": 0.707228586471202,
+        "courtesy_amount": 0.3373809470718558
+      }
+    },
+    {
+      "image": "ac04024.png",
+      "iou": {
+        "legal_amount": 0.6330946350802689,
+        "courtesy_amount": 0.46733247475405154
+      }
+    },
+    {
+      "image": "ac04027.png",
+      "iou": {
+        "legal_amount": 0.8125878394815076,
+        "courtesy_amount": 0.4705774076282978
+      }
+    },
+    {
+      "image": "ac04031.png",
+      "iou": {
+        "legal_amount": 0.6664142783467897,
+        "courtesy_amount": 0.40130428431873433
+      }
+    },
+    {
+      "image": "ac04033.png",
+      "iou": {
+        "legal_amount": 0.6347575696877478,
+        "courtesy_amount": 0.7563787287020343
+      }
+    },
+    {
+      "image": "ac04035.png",
+      "iou": {
+        "legal_amount": 0.7145188368507438,
+        "courtesy_amount": 0.5483810198695763
+      }
+    },
+    {
+      "image": "ac04036.png",
+      "iou": {
+        "legal_amount": 0.7163986162782245,
+        "courtesy_amount": 0.42516465920509205
+      }
+    },
+    {
+      "image": "ac04039.png",
+      "iou": {
+        "legal_amount": 0.6943276310285763,
+        "courtesy_amount": 0.6204741903182092
+      }
+    },
+    {
+      "image": "ac04041.png",
+      "iou": {
+        "legal_amount": 0.7251370184188726,
+        "courtesy_amount": 0.33320924970376814
+      }
+    },
+    {
+      "image": "ac04043.png",
+      "iou": {
+        "legal_amount": 0.7214448532782084,
+        "courtesy_amount": 0.3357899721597354
+      }
+    },
+    {
+      "image": "ac04045.png",
+      "iou": {
+        "legal_amount": 0.5303312601213832,
+        "courtesy_amount": 0.18279798599552108
+      }
+    },
+    {
+      "image": "ac04047.png",
+      "iou": {
+        "legal_amount": 0.8129246740300351,
+        "courtesy_amount": 0.6880672185389485
+      }
+    },
+    {
+      "image": "ac04048.png",
+      "iou": {
+        "legal_amount": 0.9585879278964532,
+        "courtesy_amount": 0.4657130509961432
+      }
+    },
+    {
+      "image": "ac04049.png",
+      "iou": {
+        "legal_amount": 0.6313678439488472,
+        "courtesy_amount": 0.39975004916859913
+      }
+    },
+    {
+      "image": "ac04052.png",
+      "iou": {
+        "legal_amount": 0.7597362404176061,
+        "courtesy_amount": 0.34154009929096174
+      }
+    },
+    {
+      "image": "ac04055.png",
+      "iou": {
+        "legal_amount": 0.9193221038155845,
+        "courtesy_amount": 0.19225875026698694
+      }
+    },
+    {
+      "image": "ac04056.png",
+      "iou": {
+        "legal_amount": 0.7035946441512368,
+        "courtesy_amount": 0.42313174357459976
+      }
+    },
+    {
+      "image": "ac04057.png",
+      "iou": {
+        "legal_amount": 0.8768635842044064,
+        "courtesy_amount": 0.17672423933701648
+      }
+    },
+    {
+      "image": "ac04058.png",
+      "iou": {
+        "legal_amount": 0.6776376165448368,
+        "courtesy_amount": 0.3694067094319417
+      }
+    },
+    {
+      "image": "ac04059.png",
+      "iou": {
+        "legal_amount": 0.7970065832897651,
+        "courtesy_amount": 0.6234672705241646
+      }
+    },
+    {
+      "image": "ac04061.png",
+      "iou": {
+        "legal_amount": 0.7586423344118209,
+        "courtesy_amount": 0.7843450306439466
+      }
+    },
+    {
+      "image": "ac04065.png",
+      "iou": {
+        "legal_amount": 0.7883809958824903,
+        "courtesy_amount": 0.767198283735183
+      }
+    },
+    {
+      "image": "ac04066.png",
+      "iou": {
+        "legal_amount": 0.6418530594213664,
+        "courtesy_amount": 0.59738008598988
+      }
+    },
+    {
+      "image": "ac04067.png",
+      "iou": {
+        "legal_amount": 0.7965792678032121,
+        "courtesy_amount": 0.5220300769155409
+      }
+    },
+    {
+      "image": "ac04068.png",
+      "iou": {
+        "legal_amount": 0.8069468953952847,
+        "courtesy_amount": 0.33495793003802926
+      }
+    },
+    {
+      "image": "ac04069.png",
+      "iou": {
+        "legal_amount": 0.7225223165093717,
+        "courtesy_amount": 0.5370789417418393
+      }
+    },
+    {
+      "image": "ac04072.png",
+      "iou": {
+        "legal_amount": 0.6397878514519104,
+        "courtesy_amount": 0.4307031128513266
+      }
+    },
+    {
+      "image": "ac04073.png",
+      "iou": {
+        "legal_amount": 0.6698408337077848,
+        "courtesy_amount": 0.2668165036546073
+      }
+    },
+    {
+      "image": "ac04075.png",
+      "iou": {
+        "legal_amount": 0.5911861576695757,
+        "courtesy_amount": 0.7397260093985387
+      }
+    },
+    {
+      "image": "ac04077.png",
+      "iou": {
+        "legal_amount": 0.8705916075032681,
+        "courtesy_amount": 0.4241405504752058
+      }
+    },
+    {
+      "image": "ac04082.png",
+      "iou": {
+        "legal_amount": 0.7162554874266802,
+        "courtesy_amount": 0.42397685184348327
+      }
+    },
+    {
+      "image": "ac04084.png",
+      "iou": {
+        "legal_amount": 0.860558300104587,
+        "courtesy_amount": 0.7867120409457169
+      }
+    },
+    {
+      "image": "ac04087.png",
+      "iou": {
+        "legal_amount": 0.673256728933218,
+        "courtesy_amount": 0.19877550886379358
+      }
+    },
+    {
+      "image": "ac04088.png",
+      "iou": {
+        "legal_amount": 0.6411206654430295,
+        "courtesy_amount": 0.3947281461613982
+      }
+    },
+    {
+      "image": "ac04089.png",
+      "iou": {
+        "legal_amount": 0.7608968973085256,
+        "courtesy_amount": 0.416723597843541
+      }
+    },
+    {
+      "image": "ac04095.png",
+      "iou": {
+        "legal_amount": 0.7702112105191947,
+        "courtesy_amount": 0.37234330330209703
+      }
+    },
+    {
+      "image": "ac04100.png",
+      "iou": {
+        "legal_amount": 0.7763965879638081,
+        "courtesy_amount": 0.4753240389590434
+      }
+    },
+    {
+      "image": "ac04101.png",
+      "iou": {
+        "legal_amount": 0.7033033080001505,
+        "courtesy_amount": 0.5093883976969525
+      }
+    },
+    {
+      "image": "ac04106.png",
+      "iou": {
+        "legal_amount": 0.5120863543136258,
+        "courtesy_amount": 0.5359252813935217
+      }
+    },
+    {
+      "image": "ac04108.png",
+      "iou": {
+        "legal_amount": 0.8611336283302263,
+        "courtesy_amount": 0.44761282493448434
+      }
+    },
+    {
+      "image": "ac04109.png",
+      "iou": {
+        "legal_amount": 0.8485057183844397,
+        "courtesy_amount": 0.5747573860319296
+      }
+    },
+    {
+      "image": "ac04110.png",
+      "iou": {
+        "legal_amount": 0.5504520855167095,
+        "courtesy_amount": 0.3452846775560007
+      }
+    },
+    {
+      "image": "ac04113.png",
+      "iou": {
+        "legal_amount": 0.7363781513722488,
+        "courtesy_amount": 0.5284461703110831
+      }
+    },
+    {
+      "image": "ac04115.png",
+      "iou": {
+        "legal_amount": 0.7059052873915491,
+        "courtesy_amount": 0.422324275756911
+      }
+    },
+    {
+      "image": "ac04116.png",
+      "iou": {
+        "legal_amount": 0.6245290800433313,
+        "courtesy_amount": 0.48283430555510143
+      }
+    },
+    {
+      "image": "ac04121.png",
+      "iou": {
+        "legal_amount": 0.7124290757917909,
+        "courtesy_amount": 0.45362692824941875
+      }
+    },
+    {
+      "image": "ac04122.png",
+      "iou": {
+        "legal_amount": 0.7888168423232254,
+        "courtesy_amount": 0.340837678570871
+      }
+    },
+    {
+      "image": "ac04126.png",
+      "iou": {
+        "legal_amount": 0.8660058616719355,
+        "courtesy_amount": 0.865915289216426
+      }
+    },
+    {
+      "image": "ac04127.png",
+      "iou": {
+        "legal_amount": 0.7351063405139657,
+        "courtesy_amount": 0.30400388965347147
+      }
+    },
+    {
+      "image": "ac04132.png",
+      "iou": {
+        "legal_amount": 0.9208922599410713,
+        "courtesy_amount": 0.5724225417826533
+      }
+    },
+    {
+      "image": "ac04134.png",
+      "iou": {
+        "legal_amount": 0.700174932709179,
+        "courtesy_amount": 0.5394177396042403
+      }
+    },
+    {
+      "image": "ac04139.png",
+      "iou": {
+        "legal_amount": 0.5678535203498065,
+        "courtesy_amount": 0.1435166368813244
+      }
+    },
+    {
+      "image": "ac04140.png",
+      "iou": {
+        "legal_amount": 0.7698668910025652,
+        "courtesy_amount": 0.6040100646995203
+      }
+    },
+    {
+      "image": "ac04143.png",
+      "iou": {
+        "legal_amount": 0.7108872039386488,
+        "courtesy_amount": 0.7673214839630144
+      }
+    },
+    {
+      "image": "ac04145.png",
+      "iou": {
+        "legal_amount": 0.7588736221377154,
+        "courtesy_amount": 0.5226099792008712
+      }
+    },
+    {
+      "image": "ac04148.png",
+      "iou": {
+        "legal_amount": 0.5732607675985837,
+        "courtesy_amount": 0.5760991678336453
+      }
+    },
+    {
+      "image": "ac04149.png",
+      "iou": {
+        "legal_amount": 0.6379384181156948,
+        "courtesy_amount": 0.8147254873416176
+      }
+    },
+    {
+      "image": "ac04152.png",
+      "iou": {
+        "legal_amount": 0.8480898135239443,
+        "courtesy_amount": 0.15223219162493962
+      }
+    },
+    {
+      "image": "ac04153.png",
+      "iou": {
+        "legal_amount": 0.6726010008528716,
+        "courtesy_amount": 0.3161021481123502
+      }
+    },
+    {
+      "image": "ac04154.png",
+      "iou": {
+        "legal_amount": 0.820109615765425,
+        "courtesy_amount": 0.4497949210417789
+      }
+    },
+    {
+      "image": "ac04157.png",
+      "iou": {
+        "legal_amount": 0.6732642153707585,
+        "courtesy_amount": 0.4882230999653918
+      }
+    },
+    {
+      "image": "ac04159.png",
+      "iou": {
+        "legal_amount": 0.7632156586396458,
+        "courtesy_amount": 0.4872345402366442
+      }
+    },
+    {
+      "image": "ac04162.png",
+      "iou": {
+        "legal_amount": 0.6946759679715475,
+        "courtesy_amount": 0.6212941379662171
+      }
+    },
+    {
+      "image": "ac04163.png",
+      "iou": {
+        "legal_amount": 0.9599135501115692,
+        "courtesy_amount": 0.538661506776392
+      }
+    },
+    {
+      "image": "ac04164.png",
+      "iou": {
+        "legal_amount": 0.6322683779863953,
+        "courtesy_amount": 0.6797406213976088
+      }
+    },
+    {
+      "image": "ac04165.png",
+      "iou": {
+        "legal_amount": 0.9325522333400516,
+        "courtesy_amount": 0.7182890504271541
+      }
+    },
+    {
+      "image": "ac04166.png",
+      "iou": {
+        "legal_amount": 0.6785945827518212,
+        "courtesy_amount": 0.4803380697506989
+      }
+    },
+    {
+      "image": "ac04167.png",
+      "iou": {
+        "legal_amount": 0.5658689823624391,
+        "courtesy_amount": 0.19367769836848206
+      }
+    },
+    {
+      "image": "ac04171.png",
+      "iou": {
+        "legal_amount": 0.713595587076765,
+        "courtesy_amount": 0.2719833457852453
+      }
+    },
+    {
+      "image": "ac04177.png",
+      "iou": {
+        "legal_amount": 0.7705764608840278,
+        "courtesy_amount": 0.38467007414843424
+      }
+    },
+    {
+      "image": "ac04178.png",
+      "iou": {
+        "legal_amount": 0.6715204509295937,
+        "courtesy_amount": 0.6449252537911824
+      }
+    },
+    {
+      "image": "ac04179.png",
+      "iou": {
+        "legal_amount": 0.6437028444954229,
+        "courtesy_amount": 0.41967880243960376
+      }
+    },
+    {
+      "image": "ac04180.png",
+      "iou": {
+        "legal_amount": 0.8952486116984667,
+        "courtesy_amount": 0.9054722310742158
+      }
+    },
+    {
+      "image": "ac04181.png",
+      "iou": {
+        "legal_amount": 0.7061419051519509,
+        "courtesy_amount": 0.36595913596667506
+      }
+    },
+    {
+      "image": "ac04183.png",
+      "iou": {
+        "legal_amount": 0.6847331286633989,
+        "courtesy_amount": 0.4097818190390129
+      }
+    },
+    {
+      "image": "ac04184.png",
+      "iou": {
+        "legal_amount": 0.7872514088031969,
+        "courtesy_amount": 0.3003562248226169
+      }
+    },
+    {
+      "image": "ac04185.png",
+      "iou": {
+        "legal_amount": 0.8136476281127126,
+        "courtesy_amount": 0.3694744128675924
+      }
+    },
+    {
+      "image": "ac04186.png",
+      "iou": {
+        "legal_amount": 0.6643364165038462,
+        "courtesy_amount": 0.41823942957486887
+      }
+    },
+    {
+      "image": "ac04188.png",
+      "iou": {
+        "legal_amount": 0.7831953953247265,
+        "courtesy_amount": 0.587314027182701
+      }
+    },
+    {
+      "image": "ac04195.png",
+      "iou": {
+        "legal_amount": 0.6927799996623785,
+        "courtesy_amount": 0.4422188763251798
+      }
+    },
+    {
+      "image": "ac04198.png",
+      "iou": {
+        "legal_amount": 0.8787876904446065,
+        "courtesy_amount": 0.4512506033061367
+      }
+    },
+    {
+      "image": "ac04200.png",
+      "iou": {
+        "legal_amount": 0.7099206866257307,
+        "courtesy_amount": 0.5069173319881815
+      }
+    },
+    {
+      "image": "ac04202.png",
+      "iou": {
+        "legal_amount": 0.7606254421820728,
+        "courtesy_amount": 0.30891682345732874
+      }
+    },
+    {
+      "image": "ac04203.png",
+      "iou": {
+        "legal_amount": 0.6978574984159501,
+        "courtesy_amount": 0.5595151734253468
+      }
+    },
+    {
+      "image": "ac04206.png",
+      "iou": {
+        "legal_amount": 0.9163683336988624,
+        "courtesy_amount": 0.2589775946534533
+      }
+    },
+    {
+      "image": "ac04207.png",
+      "iou": {
+        "legal_amount": 0.7305119038477885,
+        "courtesy_amount": 0.47499177774759593
+      }
+    },
+    {
+      "image": "ac04209.png",
+      "iou": {
+        "legal_amount": 0.7570345110439902,
+        "courtesy_amount": 0.44302126080876536
+      }
+    }
+  ]
+}

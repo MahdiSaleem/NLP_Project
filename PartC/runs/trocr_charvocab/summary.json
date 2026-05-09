@@ -1,0 +1,8 @@
+{
+  "best_epoch": 1,
+  "best_val_cer": 100.0,
+  "model_id": "microsoft/trocr-base-handwritten",
+  "epochs_run": 6,
+  "n_train": 1363,
+  "n_val": 165
+}

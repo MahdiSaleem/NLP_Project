@@ -1,0 +1,4 @@
+Loading weights:   0%|          | 0/480 [00:00<?, ?it/s]Loading weights:  95%|#########4| 454/480 [00:00<00:00, 4498.21it/s]Loading weights: 100%|##########| 480/480 [00:00<00:00, 4595.27it/s]
+Loaded TrOCR-PAW from PartC\runs\trocr_paw\best
+Predicting on 1800 images
+Wrote PartC\runs\trocr_paw\predictions_legal_paw.txt. Missed legal-amount detection: 7/1800

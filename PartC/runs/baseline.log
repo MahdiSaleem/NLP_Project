@@ -1,0 +1,35 @@
+Device: cuda
+Vocab size (incl. blank): 61
+Train: 1363, Val: 165
+Model params: 5,493,565
+epoch   1/100  loss 12.6025  val CER 100.00  WER 100.00  exact 0.0%  (19.3s, lr 1.95e-04)
+epoch   2/100  loss 3.0428  val CER 100.00  WER 100.00  exact 0.0%  (17.9s, lr 3.95e-04)
+epoch   3/100  loss 2.9098  val CER 98.39  WER 100.00  exact 0.0%  (17.2s, lr 5.95e-04)
+epoch   4/100  loss 2.7828  val CER 95.49  WER 100.00  exact 0.0%  (17.6s, lr 7.95e-04)
+epoch   5/100  loss 2.6396  val CER 93.78  WER 92.00  exact 0.0%  (17.7s, lr 9.95e-04)
+epoch   6/100  loss 2.5038  val CER 88.38  WER 92.76  exact 0.0%  (17.2s, lr 1.00e-03)
+epoch   7/100  loss 2.3571  val CER 83.81  WER 93.35  exact 0.0%  (17.2s, lr 9.99e-04)
+epoch   8/100  loss 2.2751  val CER 76.66  WER 90.57  exact 0.0%  (17.9s, lr 9.98e-04)
+epoch   9/100  loss 2.2280  val CER 72.63  WER 91.92  exact 0.0%  (17.5s, lr 9.96e-04)
+epoch  10/100  loss 2.1807  val CER 69.75  WER 93.52  exact 0.0%  (17.2s, lr 9.93e-04)
+epoch  11/100  loss 2.1534  val CER 67.72  WER 88.30  exact 0.0%  (17.1s, lr 9.90e-04)
+epoch  12/100  loss 2.1514  val CER 67.72  WER 91.92  exact 0.0%  (17.6s, lr 9.87e-04)
+epoch  13/100  loss 2.1241  val CER 71.14  WER 89.23  exact 0.0%  (18.3s, lr 9.83e-04)
+epoch  14/100  loss 2.0761  val CER 63.80  WER 87.37  exact 0.0%  (17.4s, lr 9.78e-04)
+epoch  15/100  loss 2.0943  val CER 80.92  WER 94.28  exact 0.0%  (17.4s, lr 9.73e-04)
+epoch  16/100  loss 2.0883  val CER 90.44  WER 92.59  exact 0.0%  (17.4s, lr 9.67e-04)
+epoch  17/100  loss 2.2697  val CER 75.30  WER 94.11  exact 0.0%  (17.4s, lr 9.61e-04)
+epoch  18/100  loss 2.4654  val CER 77.20  WER 92.93  exact 0.0%  (17.0s, lr 9.55e-04)
+epoch  19/100  loss 2.2841  val CER 79.90  WER 92.76  exact 0.0%  (17.4s, lr 9.48e-04)
+epoch  20/100  loss 2.2428  val CER 90.49  WER 95.71  exact 0.0%  (18.0s, lr 9.40e-04)
+epoch  21/100  loss 2.2167  val CER 69.62  WER 95.20  exact 0.0%  (17.5s, lr 9.32e-04)
+epoch  22/100  loss 2.3242  val CER 86.46  WER 92.59  exact 0.0%  (17.0s, lr 9.23e-04)
+epoch  23/100  loss 2.2540  val CER 79.51  WER 93.69  exact 0.0%  (17.1s, lr 9.14e-04)
+epoch  24/100  loss 2.1224  val CER 77.36  WER 94.11  exact 0.0%  (16.9s, lr 9.05e-04)
+epoch  25/100  loss 2.1318  val CER 80.51  WER 91.92  exact 0.0%  (17.7s, lr 8.95e-04)
+epoch  26/100  loss 2.0778  val CER 67.83  WER 89.14  exact 0.0%  (17.2s, lr 8.84e-04)
+epoch  27/100  loss 2.0622  val CER 74.28  WER 108.67  exact 0.0%  (17.4s, lr 8.74e-04)
+epoch  28/100  loss 2.4622  val CER 81.00  WER 91.50  exact 0.0%  (17.4s, lr 8.62e-04)
+epoch  29/100  loss 2.3331  val CER 73.38  WER 92.42  exact 0.0%  (17.6s, lr 8.51e-04)
+Early stop at epoch 29 (no val CER improvement for 15 epochs).
+Best val CER 63.80% at epoch 14. Wrote C:\Users\qxawe\NLP_Project\.claude\worktrees\elated-meninsky-959dc4\PartC\runs\baseline.

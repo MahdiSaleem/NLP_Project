@@ -1,0 +1,9 @@
+{
+  "best_epoch": 15,
+  "best_val_paw_wer": 55.15713134568896,
+  "epochs_run": 30,
+  "vocab_size": 213,
+  "backbone": "resnet18",
+  "n_train": 1438,
+  "n_val": 179
+}

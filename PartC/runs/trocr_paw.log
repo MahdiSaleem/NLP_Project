@@ -1,0 +1,65 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Device: cuda
+Loading + surgery: microsoft/trocr-base-handwritten
+Loading weights:   0%|          | 0/478 [00:00<?, ?it/s]Loading weights: 100%|##########| 478/478 [00:00<00:00, 5305.16it/s]
+[1mVisionEncoderDecoderModel LOAD REPORT[0m from: microsoft/trocr-base-handwritten
+Key                         | Status  | 
+----------------------------+---------+-
+encoder.pooler.dense.weight | MISSING | 
+encoder.pooler.dense.bias   | MISSING | 
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+Params: total 282,670,592
+PAW decoder vocab size: 215
+Train: 1438, Val: 179
+epoch  1/30  loss 2.7696  val WER 58.86  CER(joined) 48.20  CER(concat) 56.50  exact 0.0%  (81.6s, lr 3.31e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.78it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.78it/s]
+epoch  2/30  loss 1.1568  val WER 53.95  CER(joined) 42.43  CER(concat) 50.11  exact 1.1%  (80.8s, lr 5.00e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.46it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.46it/s]
+epoch  3/30  loss 0.9559  val WER 42.47  CER(joined) 34.20  CER(concat) 39.42  exact 2.2%  (78.8s, lr 4.97e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.46it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.46it/s]
+epoch  4/30  loss 0.7801  val WER 35.82  CER(joined) 27.85  CER(concat) 30.97  exact 7.8%  (77.0s, lr 4.91e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.51it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.51it/s]
+epoch  5/30  loss 0.6125  val WER 34.61  CER(joined) 25.36  CER(concat) 27.76  exact 14.5%  (82.4s, lr 4.82e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.34it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.34it/s]
+epoch  6/30  loss 0.5043  val WER 30.26  CER(joined) 21.26  CER(concat) 22.97  exact 16.8%  (81.0s, lr 4.70e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.43it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.42it/s]
+epoch  7/30  loss 0.3865  val WER 27.60  CER(joined) 19.26  CER(concat) 20.74  exact 14.0%  (82.7s, lr 4.56e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.48it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.48it/s]
+epoch  8/30  loss 0.3094  val WER 26.35  CER(joined) 18.34  CER(concat) 19.72  exact 16.2%  (82.5s, lr 4.39e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.47it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.47it/s]
+epoch  9/30  loss 0.2410  val WER 24.94  CER(joined) 16.61  CER(concat) 17.31  exact 16.8%  (81.3s, lr 4.19e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.43it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.43it/s]
+epoch 10/30  loss 0.1894  val WER 23.85  CER(joined) 15.86  CER(concat) 16.44  exact 21.2%  (81.5s, lr 3.98e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.37it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.37it/s]
+epoch 11/30  loss 0.1412  val WER 25.30  CER(joined) 16.58  CER(concat) 17.33  exact 21.8%  (83.0s, lr 3.75e-05)
+epoch 12/30  loss 0.1050  val WER 22.72  CER(joined) 14.95  CER(concat) 16.04  exact 27.4%  (82.4s, lr 3.51e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.41it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.41it/s]
+epoch 13/30  loss 0.0843  val WER 22.36  CER(joined) 14.66  CER(concat) 15.06  exact 24.0%  (81.0s, lr 3.25e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.36it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.36it/s]
+epoch 14/30  loss 0.0625  val WER 23.45  CER(joined) 14.88  CER(concat) 15.68  exact 18.4%  (82.6s, lr 2.98e-05)
+epoch 15/30  loss 0.0483  val WER 22.88  CER(joined) 15.00  CER(concat) 15.68  exact 24.6%  (81.3s, lr 2.71e-05)
+epoch 16/30  loss 0.0380  val WER 22.00  CER(joined) 13.67  CER(concat) 14.15  exact 25.1%  (81.7s, lr 2.43e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.40it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.40it/s]
+epoch 17/30  loss 0.0323  val WER 22.32  CER(joined) 14.29  CER(concat) 14.81  exact 25.1%  (82.4s, lr 2.16e-05)
+epoch 18/30  loss 0.0235  val WER 21.47  CER(joined) 13.14  CER(concat) 13.51  exact 23.5%  (82.6s, lr 1.89e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.37it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.37it/s]
+epoch 19/30  loss 0.0184  val WER 21.96  CER(joined) 13.64  CER(concat) 13.93  exact 24.0%  (83.1s, lr 1.63e-05)
+epoch 20/30  loss 0.0114  val WER 20.91  CER(joined) 12.74  CER(concat) 12.94  exact 28.5%  (81.8s, lr 1.37e-05)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.36it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.36it/s]
+epoch 21/30  loss 0.0057  val WER 21.19  CER(joined) 12.98  CER(concat) 13.17  exact 25.7%  (81.9s, lr 1.13e-05)
+epoch 22/30  loss 0.0037  val WER 20.71  CER(joined) 12.86  CER(concat) 13.19  exact 25.1%  (82.2s, lr 9.13e-06)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.39it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.39it/s]
+epoch 23/30  loss 0.0033  val WER 20.87  CER(joined) 12.74  CER(concat) 12.80  exact 27.9%  (81.8s, lr 7.10e-06)
+epoch 24/30  loss 0.0014  val WER 20.71  CER(joined) 12.89  CER(concat) 13.17  exact 25.1%  (82.1s, lr 5.29e-06)
+epoch 25/30  loss 0.0005  val WER 20.63  CER(joined) 13.04  CER(concat) 13.39  exact 25.7%  (82.3s, lr 3.72e-06)
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.19it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.19it/s]
+epoch 26/30  loss 0.0004  val WER 20.79  CER(joined) 13.04  CER(concat) 13.33  exact 26.3%  (79.6s, lr 2.40e-06)
+epoch 27/30  loss 0.0002  val WER 21.19  CER(joined) 13.34  CER(concat) 13.63  exact 26.8%  (77.2s, lr 1.36e-06)
+epoch 28/30  loss 0.0002  val WER 20.91  CER(joined) 13.03  CER(concat) 13.31  exact 26.8%  (76.9s, lr 6.12e-07)
+epoch 29/30  loss 0.0002  val WER 21.11  CER(joined) 13.23  CER(concat) 13.47  exact 26.8%  (78.0s, lr 1.55e-07)
+epoch 30/30  loss 0.0002  val WER 21.11  CER(joined) 13.23  CER(concat) 13.47  exact 26.8%  (82.5s, lr 1.92e-11)
+Early stop at epoch 30 (patience 5).
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.53it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  1.53it/s]
+Best val PAW-WER 20.63% at epoch 25. Wrote C:\Users\qxawe\NLP_Project\.claude\worktrees\elated-meninsky-959dc4\PartC\runs\trocr_paw.

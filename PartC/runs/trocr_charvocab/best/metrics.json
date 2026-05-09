@@ -1,0 +1,11 @@
+{
+  "epoch": 1,
+  "cer": 100.0,
+  "wer": 100.0,
+  "char_edits": 5583,
+  "char_total": 5583,
+  "word_edits": 1188,
+  "word_total": 1188,
+  "exact_match_rate": 0.0,
+  "n_samples": 165
+}

@@ -1,0 +1,1259 @@
+{
+  "weights": "PartB\\runs\\crnn_b1\\weights\\best.pt",
+  "split": "test",
+  "crops_dir": "C:\\Users\\qxawe\\NLP_Project\\.claude\\worktrees\\elated-meninsky-959dc4\\PartB\\crops\\gt\\test",
+  "decode": "beam",
+  "beam_size": 10,
+  "metrics": {
+    "digit_accuracy": 95.24405506883605,
+    "digit_error_rate": 4.755944931163953,
+    "pct_no_error": 86.44067796610169,
+    "pct_one_error": 9.6045197740113,
+    "pct_two_or_more_errors": 3.9548022598870056,
+    "n_amounts": 177,
+    "n_digits_total": 799,
+    "edits_total": 38,
+    "raw_cer_unstripped": 6.234718826405868
+  },
+  "samples": [
+    {
+      "image_id": "ac01586",
+      "gt": "999.66",
+      "pred": "999.66",
+      "gt_digits": "99966",
+      "pred_digits": "99966"
+    },
+    {
+      "image_id": "ac01716",
+      "gt": "1000",
+      "pred": "1000",
+      "gt_digits": "1000",
+      "pred_digits": "1000"
+    },
+    {
+      "image_id": "ac01549",
+      "gt": "2876",
+      "pred": "2876",
+      "gt_digits": "2876",
+      "pred_digits": "2876"
+    },
+    {
+      "image_id": "ac01110",
+      "gt": "4149",
+      "pred": "4149",
+      "gt_digits": "4149",
+      "pred_digits": "4149"
+    },
+    {
+      "image_id": "ac01407",
+      "gt": "483",
+      "pred": "483",
+      "gt_digits": "483",
+      "pred_digits": "483"
+    },
+    {
+      "image_id": "ac00237",
+      "gt": "11500",
+      "pred": "11.500",
+      "gt_digits": "11500",
+      "pred_digits": "11500"
+    },
+    {
+      "image_id": "ac01487",
+      "gt": "7140",
+      "pred": "7140",
+      "gt_digits": "7140",
+      "pred_digits": "7140"
+    },
+    {
+      "image_id": "ac01649",
+      "gt": "860",
+      "pred": "860",
+      "gt_digits": "860",
+      "pred_digits": "860"
+    },
+    {
+      "image_id": "ac00023",
+      "gt": "5520",
+      "pred": "5520",
+      "gt_digits": "5520",
+      "pred_digits": "5520"
+    },
+    {
+      "image_id": "ac01144",
+      "gt": "2919",
+      "pred": "2919",
+      "gt_digits": "2919",
+      "pred_digits": "2919"
+    },
+    {
+      "image_id": "ac00522",
+      "gt": "20000",
+      "pred": "20000",
+      "gt_digits": "20000",
+      "pred_digits": "20000"
+    },
+    {
+      "image_id": "ac01094",
+      "gt": "800",
+      "pred": "800",
+      "gt_digits": "800",
+      "pred_digits": "800"
+    },
+    {
+      "image_id": "ac00967",
+      "gt": "28680",
+      "pred": "28680",
+      "gt_digits": "28680",
+      "pred_digits": "28680"
+    },
+    {
+      "image_id": "ac01231",
+      "gt": "4300",
+      "pred": "4300",
+      "gt_digits": "4300",
+      "pred_digits": "4300"
+    },
+    {
+      "image_id": "ac00789",
+      "gt": "1395",
+      "pred": "1395",
+      "gt_digits": "1395",
+      "pred_digits": "1395"
+    },
+    {
+      "image_id": "ac00796",
+      "gt": "1450",
+      "pred": "1450",
+      "gt_digits": "1450",
+      "pred_digits": "1450"
+    },
+    {
+      "image_id": "ac00132",
+      "gt": "15629.500",
+      "pred": "15629.50",
+      "gt_digits": "15629500",
+      "pred_digits": "1562950"
+    },
+    {
+      "image_id": "ac01232",
+      "gt": "30950",
+      "pred": "30950",
+      "gt_digits": "30950",
+      "pred_digits": "30950"
+    },
+    {
+      "image_id": "ac01795",
+      "gt": "26046",
+      "pred": "26046",
+      "gt_digits": "26046",
+      "pred_digits": "26046"
+    },
+    {
+      "image_id": "ac01404",
+      "gt": "6090",
+      "pred": "6090",
+      "gt_digits": "6090",
+      "pred_digits": "6090"
+    },
+    {
+      "image_id": "ac01634",
+      "gt": "33192",
+      "pred": "331920",
+      "gt_digits": "33192",
+      "pred_digits": "331920"
+    },
+    {
+      "image_id": "ac00332",
+      "gt": "18424",
+      "pred": "18.424",
+      "gt_digits": "18424",
+      "pred_digits": "18424"
+    },
+    {
+      "image_id": "ac01296",
+      "gt": "11718",
+      "pred": "11718",
+      "gt_digits": "11718",
+      "pred_digits": "11718"
+    },
+    {
+      "image_id": "ac00317",
+      "gt": "1600",
+      "pred": "1600",
+      "gt_digits": "1600",
+      "pred_digits": "1600"
+    },
+    {
+      "image_id": "ac00227",
+      "gt": "3296",
+      "pred": "3296",
+      "gt_digits": "3296",
+      "pred_digits": "3296"
+    },
+    {
+      "image_id": "ac00098",
+      "gt": "5073",
+      "pred": "5073",
+      "gt_digits": "5073",
+      "pred_digits": "5073"
+    },
+    {
+      "image_id": "ac01559",
+      "gt": "20450",
+      "pred": "20450",
+      "gt_digits": "20450",
+      "pred_digits": "20450"
+    },
+    {
+      "image_id": "ac00188",
+      "gt": "6142",
+      "pred": "6142",
+      "gt_digits": "6142",
+      "pred_digits": "6142"
+    },
+    {
+      "image_id": "ac01020",
+      "gt": "1300",
+      "pred": "1300",
+      "gt_digits": "1300",
+      "pred_digits": "1300"
+    },
+    {
+      "image_id": "ac01053",
+      "gt": "2642",
+      "pred": "3642",
+      "gt_digits": "2642",
+      "pred_digits": "3642"
+    },
+    {
+      "image_id": "ac00287",
+      "gt": "2484.5",
+      "pred": "248450",
+      "gt_digits": "24845",
+      "pred_digits": "248450"
+    },
+    {
+      "image_id": "ac01698",
+      "gt": "15000",
+      "pred": "15000",
+      "gt_digits": "15000",
+      "pred_digits": "15000"
+    },
+    {
+      "image_id": "ac00749",
+      "gt": "6431.25",
+      "pred": "6431.25",
+      "gt_digits": "643125",
+      "pred_digits": "643125"
+    },
+    {
+      "image_id": "ac00825",
+      "gt": "20000",
+      "pred": "20000",
+      "gt_digits": "20000",
+      "pred_digits": "20000"
+    },
+    {
+      "image_id": "ac01206",
+      "gt": "632000",
+      "pred": "6320000",
+      "gt_digits": "632000",
+      "pred_digits": "6320000"
+    },
+    {
+      "image_id": "ac00885",
+      "gt": "1830",
+      "pred": "1830",
+      "gt_digits": "1830",
+      "pred_digits": "1830"
+    },
+    {
+      "image_id": "ac01208",
+      "gt": "6000",
+      "pred": "204.07..5.6",
+      "gt_digits": "6000",
+      "pred_digits": "2040756"
+    },
+    {
+      "image_id": "ac01541",
+      "gt": "2432",
+      "pred": "2232",
+      "gt_digits": "2432",
+      "pred_digits": "2232"
+    },
+    {
+      "image_id": "ac00546",
+      "gt": "10000",
+      "pred": "10000",
+      "gt_digits": "10000",
+      "pred_digits": "10000"
+    },
+    {
+      "image_id": "ac01114",
+      "gt": "1917.64",
+      "pred": "1917.64",
+      "gt_digits": "191764",
+      "pred_digits": "191764"
+    },
+    {
+      "image_id": "ac01786",
+      "gt": "50000",
+      "pred": "50000",
+      "gt_digits": "50000",
+      "pred_digits": "50000"
+    },
+    {
+      "image_id": "ac01537",
+      "gt": "1300",
+      "pred": "13000",
+      "gt_digits": "1300",
+      "pred_digits": "13000"
+    },
+    {
+      "image_id": "ac00513",
+      "gt": "14000",
+      "pred": "14000",
+      "gt_digits": "14000",
+      "pred_digits": "14000"
+    },
+    {
+      "image_id": "ac01803",
+      "gt": "573.02",
+      "pred": "573.02",
+      "gt_digits": "57302",
+      "pred_digits": "57302"
+    },
+    {
+      "image_id": "ac00550",
+      "gt": "990",
+      "pred": "990",
+      "gt_digits": "990",
+      "pred_digits": "990"
+    },
+    {
+      "image_id": "ac00296",
+      "gt": "955",
+      "pred": "955",
+      "gt_digits": "955",
+      "pred_digits": "955"
+    },
+    {
+      "image_id": "ac00947",
+      "gt": "2310",
+      "pred": "4515",
+      "gt_digits": "2310",
+      "pred_digits": "4515"
+    },
+    {
+      "image_id": "ac01327",
+      "gt": "1575",
+      "pred": "1575",
+      "gt_digits": "1575",
+      "pred_digits": "1575"
+    },
+    {
+      "image_id": "ac00818",
+      "gt": "5425",
+      "pred": "5425",
+      "gt_digits": "5425",
+      "pred_digits": "5425"
+    },
+    {
+      "image_id": "ac01032",
+      "gt": "6735",
+      "pred": "6735",
+      "gt_digits": "6735",
+      "pred_digits": "6735"
+    },
+    {
+      "image_id": "ac01353",
+      "gt": "3300",
+      "pred": "3300",
+      "gt_digits": "3300",
+      "pred_digits": "3300"
+    },
+    {
+      "image_id": "ac00443",
+      "gt": "100000",
+      "pred": "100000",
+      "gt_digits": "100000",
+      "pred_digits": "100000"
+    },
+    {
+      "image_id": "ac00652",
+      "gt": "9500",
+      "pred": "9500",
+      "gt_digits": "9500",
+      "pred_digits": "9500"
+    },
+    {
+      "image_id": "ac01481",
+      "gt": "9670",
+      "pred": "9670",
+      "gt_digits": "9670",
+      "pred_digits": "9670"
+    },
+    {
+      "image_id": "ac01172",
+      "gt": "14000",
+      "pred": "14000",
+      "gt_digits": "14000",
+      "pred_digits": "14000"
+    },
+    {
+      "image_id": "ac00440",
+      "gt": "6500",
+      "pred": "6500",
+      "gt_digits": "6500",
+      "pred_digits": "6500"
+    },
+    {
+      "image_id": "ac00137",
+      "gt": "920",
+      "pred": "920",
+      "gt_digits": "920",
+      "pred_digits": "920"
+    },
+    {
+      "image_id": "ac00556",
+      "gt": "1500",
+      "pred": "1500",
+      "gt_digits": "1500",
+      "pred_digits": "1500"
+    },
+    {
+      "image_id": "ac00829",
+      "gt": "4800",
+      "pred": "4800",
+      "gt_digits": "4800",
+      "pred_digits": "4800"
+    },
+    {
+      "image_id": "ac00654",
+      "gt": "3380",
+      "pred": "3380",
+      "gt_digits": "3380",
+      "pred_digits": "3380"
+    },
+    {
+      "image_id": "ac01660",
+      "gt": "4931",
+      "pred": "4931",
+      "gt_digits": "4931",
+      "pred_digits": "4931"
+    },
+    {
+      "image_id": "ac01794",
+      "gt": "80000",
+      "pred": "80000",
+      "gt_digits": "80000",
+      "pred_digits": "80000"
+    },
+    {
+      "image_id": "ac00477",
+      "gt": "764",
+      "pred": "764",
+      "gt_digits": "764",
+      "pred_digits": "764"
+    },
+    {
+      "image_id": "ac00116",
+      "gt": "23238",
+      "pred": "23.2380",
+      "gt_digits": "23238",
+      "pred_digits": "232380"
+    },
+    {
+      "image_id": "ac01601",
+      "gt": "313000",
+      "pred": "3130000",
+      "gt_digits": "313000",
+      "pred_digits": "3130000"
+    },
+    {
+      "image_id": "ac01585",
+      "gt": "3368.40",
+      "pred": "3368.40",
+      "gt_digits": "336840",
+      "pred_digits": "336840"
+    },
+    {
+      "image_id": "ac00672",
+      "gt": "4100",
+      "pred": "4100",
+      "gt_digits": "4100",
+      "pred_digits": "4100"
+    },
+    {
+      "image_id": "ac01413",
+      "gt": "100000",
+      "pred": "100000",
+      "gt_digits": "100000",
+      "pred_digits": "100000"
+    },
+    {
+      "image_id": "ac00457",
+      "gt": "1800",
+      "pred": "1800",
+      "gt_digits": "1800",
+      "pred_digits": "1800"
+    },
+    {
+      "image_id": "ac01151",
+      "gt": "10000",
+      "pred": "10000",
+      "gt_digits": "10000",
+      "pred_digits": "10000"
+    },
+    {
+      "image_id": "ac01420",
+      "gt": "6135.69",
+      "pred": "6135.69",
+      "gt_digits": "613569",
+      "pred_digits": "613569"
+    },
+    {
+      "image_id": "ac00560",
+      "gt": "50000",
+      "pred": "50000",
+      "gt_digits": "50000",
+      "pred_digits": "50000"
+    },
+    {
+      "image_id": "ac00785",
+      "gt": "1300",
+      "pred": "1300",
+      "gt_digits": "1300",
+      "pred_digits": "1300"
+    },
+    {
+      "image_id": "ac00954",
+      "gt": "1323",
+      "pred": "1323",
+      "gt_digits": "1323",
+      "pred_digits": "1323"
+    },
+    {
+      "image_id": "ac00339",
+      "gt": "6655.20",
+      "pred": "66555",
+      "gt_digits": "665520",
+      "pred_digits": "66555"
+    },
+    {
+      "image_id": "ac01805",
+      "gt": "1210.17",
+      "pred": "120",
+      "gt_digits": "121017",
+      "pred_digits": "120"
+    },
+    {
+      "image_id": "ac01505",
+      "gt": "19000",
+      "pred": "19000",
+      "gt_digits": "19000",
+      "pred_digits": "19000"
+    },
+    {
+      "image_id": "ac01104",
+      "gt": "4950",
+      "pred": "4950",
+      "gt_digits": "4950",
+      "pred_digits": "4950"
+    },
+    {
+      "image_id": "ac00358",
+      "gt": "61027.70",
+      "pred": "61027.70",
+      "gt_digits": "6102770",
+      "pred_digits": "6102770"
+    },
+    {
+      "image_id": "ac01258",
+      "gt": "5927",
+      "pred": "5927",
+      "gt_digits": "5927",
+      "pred_digits": "5927"
+    },
+    {
+      "image_id": "ac00148",
+      "gt": "1305",
+      "pred": "1305",
+      "gt_digits": "1305",
+      "pred_digits": "1305"
+    },
+    {
+      "image_id": "ac01338",
+      "gt": "69415",
+      "pred": "69415",
+      "gt_digits": "69415",
+      "pred_digits": "69415"
+    },
+    {
+      "image_id": "ac01410",
+      "gt": "867",
+      "pred": "867",
+      "gt_digits": "867",
+      "pred_digits": "867"
+    },
+    {
+      "image_id": "ac01448",
+      "gt": "500",
+      "pred": "500",
+      "gt_digits": "500",
+      "pred_digits": "500"
+    },
+    {
+      "image_id": "ac00554",
+      "gt": "670",
+      "pred": "670",
+      "gt_digits": "670",
+      "pred_digits": "670"
+    },
+    {
+      "image_id": "ac01383",
+      "gt": "40000",
+      "pred": "40000",
+      "gt_digits": "40000",
+      "pred_digits": "40000"
+    },
+    {
+      "image_id": "ac00437",
+      "gt": "6152",
+      "pred": "6152",
+      "gt_digits": "6152",
+      "pred_digits": "6152"
+    },
+    {
+      "image_id": "ac00735",
+      "gt": "42500",
+      "pred": "42500",
+      "gt_digits": "42500",
+      "pred_digits": "42500"
+    },
+    {
+      "image_id": "ac00766",
+      "gt": "33333",
+      "pred": "33333",
+      "gt_digits": "33333",
+      "pred_digits": "33333"
+    },
+    {
+      "image_id": "ac00338",
+      "gt": "15000",
+      "pred": "15000",
+      "gt_digits": "15000",
+      "pred_digits": "15000"
+    },
+    {
+      "image_id": "ac00755",
+      "gt": "8922",
+      "pred": "8933",
+      "gt_digits": "8922",
+      "pred_digits": "8933"
+    },
+    {
+      "image_id": "ac01720",
+      "gt": "2125",
+      "pred": "2125",
+      "gt_digits": "2125",
+      "pred_digits": "2125"
+    },
+    {
+      "image_id": "ac00936",
+      "gt": "59443.60",
+      "pred": "56442.20",
+      "gt_digits": "5944360",
+      "pred_digits": "5644220"
+    },
+    {
+      "image_id": "ac01767",
+      "gt": "1186",
+      "pred": "1186",
+      "gt_digits": "1186",
+      "pred_digits": "1186"
+    },
+    {
+      "image_id": "ac01760",
+      "gt": "780",
+      "pred": "780",
+      "gt_digits": "780",
+      "pred_digits": "780"
+    },
+    {
+      "image_id": "ac00208",
+      "gt": "4050",
+      "pred": "4050",
+      "gt_digits": "4050",
+      "pred_digits": "4050"
+    },
+    {
+      "image_id": "ac01790",
+      "gt": "24000",
+      "pred": "24000",
+      "gt_digits": "24000",
+      "pred_digits": "24000"
+    },
+    {
+      "image_id": "ac00165",
+      "gt": "25000",
+      "pred": "25000",
+      "gt_digits": "25000",
+      "pred_digits": "25000"
+    },
+    {
+      "image_id": "ac00600",
+      "gt": "2960",
+      "pred": "2960",
+      "gt_digits": "2960",
+      "pred_digits": "2960"
+    },
+    {
+      "image_id": "ac01595",
+      "gt": "4380",
+      "pred": "4380",
+      "gt_digits": "4380",
+      "pred_digits": "4380"
+    },
+    {
+      "image_id": "ac00474",
+      "gt": "3331",
+      "pred": "3331",
+      "gt_digits": "3331",
+      "pred_digits": "3331"
+    },
+    {
+      "image_id": "ac01365",
+      "gt": "7098",
+      "pred": "7098",
+      "gt_digits": "7098",
+      "pred_digits": "7098"
+    },
+    {
+      "image_id": "ac00095",
+      "gt": "4607",
+      "pred": "4607",
+      "gt_digits": "4607",
+      "pred_digits": "4607"
+    },
+    {
+      "image_id": "ac00144",
+      "gt": "10000",
+      "pred": "10000",
+      "gt_digits": "10000",
+      "pred_digits": "10000"
+    },
+    {
+      "image_id": "ac01453",
+      "gt": "6431.25",
+      "pred": "6431.25",
+      "gt_digits": "643125",
+      "pred_digits": "643125"
+    },
+    {
+      "image_id": "ac00401",
+      "gt": "3000",
+      "pred": "3000",
+      "gt_digits": "3000",
+      "pred_digits": "3000"
+    },
+    {
+      "image_id": "ac01193",
+      "gt": "2000",
+      "pred": "200",
+      "gt_digits": "2000",
+      "pred_digits": "200"
+    },
+    {
+      "image_id": "ac00748",
+      "gt": "11500",
+      "pred": "11500",
+      "gt_digits": "11500",
+      "pred_digits": "11500"
+    },
+    {
+      "image_id": "ac01277",
+      "gt": "23900",
+      "pred": "23900",
+      "gt_digits": "23900",
+      "pred_digits": "23900"
+    },
+    {
+      "image_id": "ac01298",
+      "gt": "15000",
+      "pred": "15000",
+      "gt_digits": "15000",
+      "pred_digits": "15000"
+    },
+    {
+      "image_id": "ac01710",
+      "gt": "100000",
+      "pred": "100000",
+      "gt_digits": "100000",
+      "pred_digits": "100000"
+    },
+    {
+      "image_id": "ac00608",
+      "gt": "16981",
+      "pred": "16981",
+      "gt_digits": "16981",
+      "pred_digits": "16981"
+    },
+    {
+      "image_id": "ac01141",
+      "gt": "7332",
+      "pred": "7332",
+      "gt_digits": "7332",
+      "pred_digits": "7332"
+    },
+    {
+      "image_id": "ac00163",
+      "gt": "67297",
+      "pred": "67297",
+      "gt_digits": "67297",
+      "pred_digits": "67297"
+    },
+    {
+      "image_id": "ac00783",
+      "gt": "245138",
+      "pred": "245.138",
+      "gt_digits": "245138",
+      "pred_digits": "245138"
+    },
+    {
+      "image_id": "ac00258",
+      "gt": "50000",
+      "pred": "50000",
+      "gt_digits": "50000",
+      "pred_digits": "50000"
+    },
+    {
+      "image_id": "ac01109",
+      "gt": "250000",
+      "pred": "250000",
+      "gt_digits": "250000",
+      "pred_digits": "250000"
+    },
+    {
+      "image_id": "ac00948",
+      "gt": "600",
+      "pred": "5",
+      "gt_digits": "600",
+      "pred_digits": "5"
+    },
+    {
+      "image_id": "ac01506",
+      "gt": "37310",
+      "pred": "37310",
+      "gt_digits": "37310",
+      "pred_digits": "37310"
+    },
+    {
+      "image_id": "ac00090",
+      "gt": "8000",
+      "pred": "8000",
+      "gt_digits": "8000",
+      "pred_digits": "8000"
+    },
+    {
+      "image_id": "ac01664",
+      "gt": "902",
+      "pred": "902",
+      "gt_digits": "902",
+      "pred_digits": "902"
+    },
+    {
+      "image_id": "ac00549",
+      "gt": "2890",
+      "pred": "2890",
+      "gt_digits": "2890",
+      "pred_digits": "2890"
+    },
+    {
+      "image_id": "ac01247",
+      "gt": "206000",
+      "pred": "2060000",
+      "gt_digits": "206000",
+      "pred_digits": "2060000"
+    },
+    {
+      "image_id": "ac00712",
+      "gt": "1600",
+      "pred": "1600",
+      "gt_digits": "1600",
+      "pred_digits": "1600"
+    },
+    {
+      "image_id": "ac01747",
+      "gt": "150000",
+      "pred": "150000",
+      "gt_digits": "150000",
+      "pred_digits": "150000"
+    },
+    {
+      "image_id": "ac00743",
+      "gt": "3000",
+      "pred": "3000",
+      "gt_digits": "3000",
+      "pred_digits": "3000"
+    },
+    {
+      "image_id": "ac00200",
+      "gt": "153",
+      "pred": "153",
+      "gt_digits": "153",
+      "pred_digits": "153"
+    },
+    {
+      "image_id": "ac00786",
+      "gt": "1595",
+      "pred": "1595",
+      "gt_digits": "1595",
+      "pred_digits": "1595"
+    },
+    {
+      "image_id": "ac00191",
+      "gt": "2249",
+      "pred": "2249",
+      "gt_digits": "2249",
+      "pred_digits": "2249"
+    },
+    {
+      "image_id": "ac01801",
+      "gt": "1415.2",
+      "pred": "14150",
+      "gt_digits": "14152",
+      "pred_digits": "14150"
+    },
+    {
+      "image_id": "ac00697",
+      "gt": "4287.50",
+      "pred": "4287.50",
+      "gt_digits": "428750",
+      "pred_digits": "428750"
+    },
+    {
+      "image_id": "ac01575",
+      "gt": "2848",
+      "pred": "2848",
+      "gt_digits": "2848",
+      "pred_digits": "2848"
+    },
+    {
+      "image_id": "ac00448",
+      "gt": "850",
+      "pred": "850",
+      "gt_digits": "850",
+      "pred_digits": "850"
+    },
+    {
+      "image_id": "ac00323",
+      "gt": "7101",
+      "pred": "7107",
+      "gt_digits": "7101",
+      "pred_digits": "7107"
+    },
+    {
+      "image_id": "ac01776",
+      "gt": "462",
+      "pred": "462",
+      "gt_digits": "462",
+      "pred_digits": "462"
+    },
+    {
+      "image_id": "ac00704",
+      "gt": "5000",
+      "pred": "5000",
+      "gt_digits": "5000",
+      "pred_digits": "5000"
+    },
+    {
+      "image_id": "ac00873",
+      "gt": "3760",
+      "pred": "3760",
+      "gt_digits": "3760",
+      "pred_digits": "3760"
+    },
+    {
+      "image_id": "ac01440",
+      "gt": "72333",
+      "pred": "72333",
+      "gt_digits": "72333",
+      "pred_digits": "72333"
+    },
+    {
+      "image_id": "ac00331",
+      "gt": "59474.78",
+      "pred": "59474.78",
+      "gt_digits": "5947478",
+      "pred_digits": "5947478"
+    },
+    {
+      "image_id": "ac01662",
+      "gt": "25000",
+      "pred": "250000",
+      "gt_digits": "25000",
+      "pred_digits": "250000"
+    },
+    {
+      "image_id": "ac01566",
+      "gt": "53064",
+      "pred": "53064",
+      "gt_digits": "53064",
+      "pred_digits": "53064"
+    },
+    {
+      "image_id": "ac00013",
+      "gt": "3000",
+      "pred": "3000",
+      "gt_digits": "3000",
+      "pred_digits": "3000"
+    },
+    {
+      "image_id": "ac01669",
+      "gt": "16000",
+      "pred": "16000",
+      "gt_digits": "16000",
+      "pred_digits": "16000"
+    },
+    {
+      "image_id": "ac00577",
+      "gt": "2942",
+      "pred": "2942",
+      "gt_digits": "2942",
+      "pred_digits": "2942"
+    },
+    {
+      "image_id": "ac01217",
+      "gt": "1466",
+      "pred": "1466",
+      "gt_digits": "1466",
+      "pred_digits": "1466"
+    },
+    {
+      "image_id": "ac00927",
+      "gt": "100000",
+      "pred": "100000",
+      "gt_digits": "100000",
+      "pred_digits": "100000"
+    },
+    {
+      "image_id": "ac00459",
+      "gt": "4230",
+      "pred": "4230",
+      "gt_digits": "4230",
+      "pred_digits": "4230"
+    },
+    {
+      "image_id": "ac00867",
+      "gt": "20000",
+      "pred": "20000",
+      "gt_digits": "20000",
+      "pred_digits": "20000"
+    },
+    {
+      "image_id": "ac01798",
+      "gt": "11103",
+      "pred": "11103",
+      "gt_digits": "11103",
+      "pred_digits": "11103"
+    },
+    {
+      "image_id": "ac01447",
+      "gt": "4992",
+      "pred": "4992",
+      "gt_digits": "4992",
+      "pred_digits": "4992"
+    },
+    {
+      "image_id": "ac01341",
+      "gt": "10000",
+      "pred": "10000",
+      "gt_digits": "10000",
+      "pred_digits": "10000"
+    },
+    {
+      "image_id": "ac01477",
+      "gt": "3000",
+      "pred": "3000",
+      "gt_digits": "3000",
+      "pred_digits": "3000"
+    },
+    {
+      "image_id": "ac00415",
+      "gt": "9720",
+      "pred": "6720",
+      "gt_digits": "9720",
+      "pred_digits": "6720"
+    },
+    {
+      "image_id": "ac01160",
+      "gt": "6800",
+      "pred": "6800",
+      "gt_digits": "6800",
+      "pred_digits": "6800"
+    },
+    {
+      "image_id": "ac00055",
+      "gt": "1562",
+      "pred": "1562",
+      "gt_digits": "1562",
+      "pred_digits": "1562"
+    },
+    {
+      "image_id": "ac01243",
+      "gt": "2043",
+      "pred": "2043",
+      "gt_digits": "2043",
+      "pred_digits": "2043"
+    },
+    {
+      "image_id": "ac01044",
+      "gt": "3858.75",
+      "pred": "3858.75",
+      "gt_digits": "385875",
+      "pred_digits": "385875"
+    },
+    {
+      "image_id": "ac00484",
+      "gt": "4322.50",
+      "pred": "4322.50",
+      "gt_digits": "432250",
+      "pred_digits": "432250"
+    },
+    {
+      "image_id": "ac00455",
+      "gt": "116699.78",
+      "pred": "116699.78",
+      "gt_digits": "11669978",
+      "pred_digits": "11669978"
+    },
+    {
+      "image_id": "ac00193",
+      "gt": "35000",
+      "pred": "35000",
+      "gt_digits": "35000",
+      "pred_digits": "35000"
+    },
+    {
+      "image_id": "ac00062",
+      "gt": "5690",
+      "pred": "5690",
+      "gt_digits": "5690",
+      "pred_digits": "5690"
+    },
+    {
+      "image_id": "ac00066",
+      "gt": "43673",
+      "pred": "43673",
+      "gt_digits": "43673",
+      "pred_digits": "43673"
+    },
+    {
+      "image_id": "ac00872",
+      "gt": "10045",
+      "pred": "10045",
+      "gt_digits": "10045",
+      "pred_digits": "10045"
+    },
+    {
+      "image_id": "ac01220",
+      "gt": "2597",
+      "pred": "2597",
+      "gt_digits": "2597",
+      "pred_digits": "2597"
+    },
+    {
+      "image_id": "ac00180",
+      "gt": "1584",
+      "pred": "1584",
+      "gt_digits": "1584",
+      "pred_digits": "1584"
+    },
+    {
+      "image_id": "ac01127",
+      "gt": "1758",
+      "pred": "1658",
+      "gt_digits": "1758",
+      "pred_digits": "1658"
+    },
+    {
+      "image_id": "ac01528",
+      "gt": "4873",
+      "pred": "487",
+      "gt_digits": "4873",
+      "pred_digits": "487"
+    },
+    {
+      "image_id": "ac01396",
+      "gt": "1600",
+      "pred": "1600",
+      "gt_digits": "1600",
+      "pred_digits": "1600"
+    },
+    {
+      "image_id": "ac00211",
+      "gt": "81267",
+      "pred": "81.267",
+      "gt_digits": "81267",
+      "pred_digits": "81267"
+    },
+    {
+      "image_id": "ac01520",
+      "gt": "6472",
+      "pred": "6472",
+      "gt_digits": "6472",
+      "pred_digits": "6472"
+    },
+    {
+      "image_id": "ac00289",
+      "gt": "30000",
+      "pred": "30000",
+      "gt_digits": "30000",
+      "pred_digits": "30000"
+    },
+    {
+      "image_id": "ac00465",
+      "gt": "3881",
+      "pred": "3881",
+      "gt_digits": "3881",
+      "pred_digits": "3881"
+    },
+    {
+      "image_id": "ac00509",
+      "gt": "4335",
+      "pred": "4335",
+      "gt_digits": "4335",
+      "pred_digits": "4335"
+    },
+    {
+      "image_id": "ac00571",
+      "gt": "230",
+      "pred": "230",
+      "gt_digits": "230",
+      "pred_digits": "230"
+    },
+    {
+      "image_id": "ac01530",
+      "gt": "3985",
+      "pred": "3985",
+      "gt_digits": "3985",
+      "pred_digits": "3985"
+    },
+    {
+      "image_id": "ac00052",
+      "gt": "2950",
+      "pred": "2950",
+      "gt_digits": "2950",
+      "pred_digits": "2950"
+    },
+    {
+      "image_id": "ac00231",
+      "gt": "1300",
+      "pred": "1300",
+      "gt_digits": "1300",
+      "pred_digits": "1300"
+    }
+  ]
+}

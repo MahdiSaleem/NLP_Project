@@ -1,0 +1,14 @@
+{
+  "n_with_gt": 145,
+  "legal_acc_pre": 38.62068965517241,
+  "legal_acc_post": 51.03448275862069,
+  "legal_acc_lift": 12.413793103448278,
+  "courtesy_acc_pre": 73.79310344827586,
+  "courtesy_acc_post": 73.79310344827586,
+  "courtesy_acc_lift": 0.0,
+  "match_rate_pre": 30.344827586206897,
+  "match_rate_post": 48.96551724137931,
+  "match_rate_lift": 18.620689655172413,
+  "n_corrected_legal": 27,
+  "n_corrected_courtesy": 0
+}

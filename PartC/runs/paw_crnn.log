@@ -1,0 +1,36 @@
+Device: cuda
+PAW vocab size (incl. blank + unk): 213
+Train: 1438, Val: 179
+Backbone: resnet18  params: 5,423,125
+epoch   1/100  loss 38.8508  val WER 100.00  CER(joined) 100.00  CER(concat) 100.00  exact 0.0%  (18.3s, lr 1.95e-04)
+epoch   2/100  loss 3.6747  val WER 100.00  CER(joined) 100.00  CER(concat) 100.00  exact 0.0%  (18.2s, lr 3.95e-04)
+epoch   3/100  loss 3.2929  val WER 95.81  CER(joined) 94.81  CER(concat) 92.40  exact 0.0%  (18.2s, lr 5.95e-04)
+epoch   4/100  loss 2.9606  val WER 95.81  CER(joined) 94.81  CER(concat) 92.40  exact 0.0%  (19.3s, lr 7.95e-04)
+epoch   5/100  loss 2.7594  val WER 95.81  CER(joined) 94.81  CER(concat) 92.40  exact 0.0%  (17.1s, lr 9.95e-04)
+epoch   6/100  loss 2.4996  val WER 72.16  CER(joined) 76.02  CER(concat) 78.13  exact 0.0%  (17.2s, lr 1.00e-03)
+epoch   7/100  loss 2.3361  val WER 66.56  CER(joined) 71.52  CER(concat) 75.36  exact 0.0%  (18.2s, lr 9.99e-04)
+epoch   8/100  loss 2.2631  val WER 69.62  CER(joined) 74.21  CER(concat) 76.84  exact 0.0%  (22.8s, lr 9.98e-04)
+epoch   9/100  loss 2.2142  val WER 62.57  CER(joined) 65.92  CER(concat) 72.78  exact 0.0%  (25.1s, lr 9.96e-04)
+epoch  10/100  loss 2.1633  val WER 60.31  CER(joined) 61.56  CER(concat) 68.04  exact 0.0%  (24.5s, lr 9.93e-04)
+epoch  11/100  loss 2.1240  val WER 60.84  CER(joined) 62.23  CER(concat) 67.08  exact 0.0%  (24.6s, lr 9.90e-04)
+epoch  12/100  loss 2.1139  val WER 60.60  CER(joined) 64.50  CER(concat) 71.56  exact 0.0%  (24.9s, lr 9.87e-04)
+epoch  13/100  loss 2.0495  val WER 66.16  CER(joined) 70.21  CER(concat) 73.85  exact 0.0%  (17.9s, lr 9.83e-04)
+epoch  14/100  loss 2.0376  val WER 60.44  CER(joined) 64.52  CER(concat) 69.55  exact 0.0%  (17.9s, lr 9.78e-04)
+epoch  15/100  loss 1.9989  val WER 55.16  CER(joined) 57.38  CER(concat) 65.67  exact 0.0%  (18.1s, lr 9.73e-04)
+epoch  16/100  loss 1.9974  val WER 64.42  CER(joined) 67.37  CER(concat) 70.95  exact 0.0%  (17.7s, lr 9.67e-04)
+epoch  17/100  loss 1.9816  val WER 58.02  CER(joined) 61.34  CER(concat) 67.30  exact 0.0%  (17.9s, lr 9.61e-04)
+epoch  18/100  loss 1.9805  val WER 58.34  CER(joined) 61.72  CER(concat) 67.46  exact 0.0%  (17.6s, lr 9.55e-04)
+epoch  19/100  loss 1.9359  val WER 59.19  CER(joined) 60.76  CER(concat) 67.28  exact 0.0%  (17.5s, lr 9.48e-04)
+epoch  20/100  loss 1.9239  val WER 58.74  CER(joined) 61.49  CER(concat) 66.71  exact 0.0%  (18.0s, lr 9.40e-04)
+epoch  21/100  loss 1.9579  val WER 62.65  CER(joined) 65.95  CER(concat) 70.17  exact 0.0%  (17.8s, lr 9.32e-04)
+epoch  22/100  loss 1.9013  val WER 58.18  CER(joined) 61.21  CER(concat) 67.04  exact 0.0%  (17.0s, lr 9.23e-04)
+epoch  23/100  loss 1.8981  val WER 58.02  CER(joined) 60.54  CER(concat) 66.35  exact 0.0%  (16.2s, lr 9.14e-04)
+epoch  24/100  loss 1.8719  val WER 57.90  CER(joined) 58.26  CER(concat) 65.53  exact 0.0%  (16.5s, lr 9.05e-04)
+epoch  25/100  loss 1.8505  val WER 55.40  CER(joined) 55.88  CER(concat) 62.63  exact 0.0%  (16.6s, lr 8.95e-04)
+epoch  26/100  loss 1.8694  val WER 57.98  CER(joined) 61.10  CER(concat) 66.67  exact 0.0%  (16.6s, lr 8.84e-04)
+epoch  27/100  loss 1.8488  val WER 56.24  CER(joined) 59.11  CER(concat) 65.31  exact 0.0%  (16.5s, lr 8.74e-04)
+epoch  28/100  loss 1.8537  val WER 59.91  CER(joined) 63.74  CER(concat) 68.38  exact 0.0%  (16.7s, lr 8.62e-04)
+epoch  29/100  loss 1.8081  val WER 56.33  CER(joined) 57.61  CER(concat) 64.54  exact 0.0%  (16.4s, lr 8.51e-04)
+epoch  30/100  loss 1.7805  val WER 57.57  CER(joined) 59.60  CER(concat) 65.77  exact 0.0%  (16.2s, lr 8.39e-04)
+Early stop at epoch 30 (patience 15).
+Best val PAW-WER 55.16% at epoch 15. Wrote C:\Users\qxawe\NLP_Project\.claude\worktrees\elated-meninsky-959dc4\PartC\runs\paw_crnn.

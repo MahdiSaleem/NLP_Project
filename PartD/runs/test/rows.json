@@ -1,0 +1,1716 @@
+[
+  {
+    "stem": "ac00013",
+    "courtesy": "3000",
+    "legal": "1700",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "3000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00023",
+    "courtesy": "5520",
+    "legal": "2400",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "5520",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00052",
+    "courtesy": "2950",
+    "legal": "1000950",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2950",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00055",
+    "courtesy": "1562",
+    "legal": "1500",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1562",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00062",
+    "courtesy": "91785",
+    "legal": "5400",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "5690",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00066",
+    "courtesy": "43673",
+    "legal": "1730",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "43673",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00090",
+    "courtesy": "8000",
+    "legal": "5000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "8000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00095",
+    "courtesy": "4607",
+    "legal": "4600",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "4607",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00098",
+    "courtesy": "5073",
+    "legal": "5370",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "5073",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00116",
+    "courtesy": "23238",
+    "legal": "24000",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00132",
+    "courtesy": "1562950",
+    "legal": "15609",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00137",
+    "courtesy": "920",
+    "legal": "29",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00144",
+    "courtesy": "10000",
+    "legal": "10000",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00148",
+    "courtesy": "1305",
+    "legal": "1305",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00163",
+    "courtesy": "67297",
+    "legal": "90",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00165",
+    "courtesy": "91385",
+    "legal": "15000",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00180",
+    "courtesy": "1584",
+    "legal": "1500",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00188",
+    "courtesy": "6142",
+    "legal": "1144",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00191",
+    "courtesy": "2249",
+    "legal": "2290",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00193",
+    "courtesy": "35000",
+    "legal": "35000",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00200",
+    "courtesy": "153",
+    "legal": "153",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00208",
+    "courtesy": "4050",
+    "legal": "4050",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "4050",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00211",
+    "courtesy": "81267",
+    "legal": "81200",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "81267",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00227",
+    "courtesy": "3296",
+    "legal": "3296",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "3296",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00231",
+    "courtesy": "1300",
+    "legal": "1300",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "1300",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00237",
+    "courtesy": "11500",
+    "legal": "14500",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "11500",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00258",
+    "courtesy": "50000",
+    "legal": "50000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "50000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00287",
+    "courtesy": "248450",
+    "legal": "2484",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2484",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00289",
+    "courtesy": "30000",
+    "legal": "30000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "30000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00296",
+    "courtesy": "955",
+    "legal": "900",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "955",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00317",
+    "courtesy": "3",
+    "legal": "800",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1600",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00323",
+    "courtesy": "7107",
+    "legal": "1",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "7101",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00331",
+    "courtesy": "5947478",
+    "legal": "1474",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "59474",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00332",
+    "courtesy": "18424",
+    "legal": "20",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "18424",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00338",
+    "courtesy": "15000",
+    "legal": "10000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "15000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00339",
+    "courtesy": "66555",
+    "legal": "6655",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "6655",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00358",
+    "courtesy": "6102770",
+    "legal": "61000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "61027",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00401",
+    "courtesy": "3000",
+    "legal": "3000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "3000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00415",
+    "courtesy": "6720",
+    "legal": "9600",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00437",
+    "courtesy": "6152",
+    "legal": "6152",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00440",
+    "courtesy": "6500",
+    "legal": "6500",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00443",
+    "courtesy": "100000",
+    "legal": "300000",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00448",
+    "courtesy": "850",
+    "legal": "850",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00455",
+    "courtesy": "11669978",
+    "legal": "116000",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00457",
+    "courtesy": "1800",
+    "legal": "1800",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00459",
+    "courtesy": "4230",
+    "legal": "4280",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00465",
+    "courtesy": "3881",
+    "legal": "3880",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00474",
+    "courtesy": "333100",
+    "legal": "3000",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00477",
+    "courtesy": "764",
+    "legal": "764",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00484",
+    "courtesy": "4322500",
+    "legal": "2020",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac00509",
+    "courtesy": "4335",
+    "legal": "4350",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "4335",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00513",
+    "courtesy": "14000",
+    "legal": "10000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "14000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00522",
+    "courtesy": "20000",
+    "legal": "20000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "20000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00546",
+    "courtesy": "10000",
+    "legal": "10000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "10000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00549",
+    "courtesy": "2890",
+    "legal": "2890",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "2890",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00550",
+    "courtesy": "990",
+    "legal": "990",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "990",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00554",
+    "courtesy": "917385",
+    "legal": "660",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "670",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00556",
+    "courtesy": "1500",
+    "legal": "1500",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "1500",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00560",
+    "courtesy": "50000",
+    "legal": "50000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "50000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00571",
+    "courtesy": "230",
+    "legal": "230",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "230",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00577",
+    "courtesy": "2942",
+    "legal": "2942",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "2942",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00600",
+    "courtesy": "2960",
+    "legal": "2966",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2960",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00608",
+    "courtesy": "16981",
+    "legal": "16981",
+    "label": "MATCH",
+    "leftover": [
+      "ي"
+    ],
+    "gt": "16981",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00652",
+    "courtesy": "9500",
+    "legal": "9500",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "9500",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00654",
+    "courtesy": "3380",
+    "legal": "3308",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "3380",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00672",
+    "courtesy": "4100",
+    "legal": "4100",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "4100",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00697",
+    "courtesy": "428750",
+    "legal": "4287",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "4287",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00704",
+    "courtesy": "5000",
+    "legal": "5000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "5000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00712",
+    "courtesy": "1600",
+    "legal": "1600",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "1600",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00735",
+    "courtesy": "42500",
+    "legal": "43",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "42500",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00743",
+    "courtesy": "3000",
+    "legal": "3000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "3000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00748",
+    "courtesy": "115007",
+    "legal": "10505",
+    "label": "MISMATCH",
+    "leftover": [
+      "ميتا"
+    ],
+    "gt": "11500",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00749",
+    "courtesy": "643125",
+    "legal": "6150",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "6431",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00755",
+    "courtesy": "8933",
+    "legal": "100933",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "8922",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00766",
+    "courtesy": "33333",
+    "legal": "33300",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "33333",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00783",
+    "courtesy": "245138",
+    "legal": "150",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "245138",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00785",
+    "courtesy": "1300",
+    "legal": "1303",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1300",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00786",
+    "courtesy": "1595",
+    "legal": "1550",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1595",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00789",
+    "courtesy": "1395",
+    "legal": "1376",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1395",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00796",
+    "courtesy": "1450",
+    "legal": "52000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1450",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00818",
+    "courtesy": "5425",
+    "legal": "5400",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "5425",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00825",
+    "courtesy": "20000",
+    "legal": "22000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "20000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00829",
+    "courtesy": "4800",
+    "legal": "2800",
+    "label": "MISMATCH",
+    "leftover": [
+      "ت"
+    ],
+    "gt": "4800",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00867",
+    "courtesy": "1000",
+    "legal": "20000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "20000",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00872",
+    "courtesy": "10045",
+    "legal": "1000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "10045",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00873",
+    "courtesy": "3760",
+    "legal": "3600",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "3760",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00885",
+    "courtesy": "1830",
+    "legal": "1833",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1830",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00927",
+    "courtesy": "100000",
+    "legal": "100000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "100000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00936",
+    "courtesy": "5944320",
+    "legal": "59443",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "59443",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00947",
+    "courtesy": "4015",
+    "legal": "310000",
+    "label": "MISMATCH",
+    "leftover": [
+      "ين"
+    ],
+    "gt": "2310",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00948",
+    "courtesy": "5",
+    "legal": "10000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "600",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac00954",
+    "courtesy": "1323",
+    "legal": "1323",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "1323",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac00967",
+    "courtesy": "21680",
+    "legal": "12216",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "28680",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01020",
+    "courtesy": "1300",
+    "legal": "1300",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01032",
+    "courtesy": "6735",
+    "legal": "4600",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01044",
+    "courtesy": "385875",
+    "legal": "3888",
+    "label": "MISMATCH",
+    "leftover": [
+      "ه"
+    ]
+  },
+  {
+    "stem": "ac01053",
+    "courtesy": "3642",
+    "legal": "3000",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01094",
+    "courtesy": "800",
+    "legal": "800",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01104",
+    "courtesy": "4950",
+    "legal": "4950",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01109",
+    "courtesy": "250000",
+    "legal": "250000",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01110",
+    "courtesy": "4149",
+    "legal": "4149",
+    "label": "MATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01114",
+    "courtesy": "191764",
+    "legal": "1917",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1917",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01127",
+    "courtesy": "1658",
+    "legal": "1658",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "1758",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01141",
+    "courtesy": "7332",
+    "legal": "7380",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "7332",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01144",
+    "courtesy": "2919",
+    "legal": "1919",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2919",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01151",
+    "courtesy": "10000",
+    "legal": "10000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "10000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01160",
+    "courtesy": "6800",
+    "legal": "6300",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "6800",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01172",
+    "courtesy": "14000",
+    "legal": "14000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "14000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01193",
+    "courtesy": "20",
+    "legal": "2000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2000",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01206",
+    "courtesy": "632000",
+    "legal": "332",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "632000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01208",
+    "courtesy": "6100",
+    "legal": "6000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "6000",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01217",
+    "courtesy": "1466",
+    "legal": "1400",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1466",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01220",
+    "courtesy": "2597",
+    "legal": "2570",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2597",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01231",
+    "courtesy": "430",
+    "legal": "4380",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "4300",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01232",
+    "courtesy": "30950",
+    "legal": "13919",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "30950",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01243",
+    "courtesy": "91785",
+    "legal": "2340",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2043",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01247",
+    "courtesy": "2060000",
+    "legal": "806000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "206000",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01258",
+    "courtesy": "5927",
+    "legal": "5907",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "5927",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01277",
+    "courtesy": "23900",
+    "legal": "23119",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "23900",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01296",
+    "courtesy": "11718",
+    "legal": "11780",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "11718",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01298",
+    "courtesy": "15000",
+    "legal": "15000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "15000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01311",
+    "courtesy": "10358",
+    "legal": "10380",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01312",
+    "courtesy": "9454",
+    "legal": "10400",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01320",
+    "courtesy": "1810",
+    "legal": "1110",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01321",
+    "courtesy": "360",
+    "legal": "1360",
+    "label": "MISMATCH",
+    "leftover": []
+  },
+  {
+    "stem": "ac01327",
+    "courtesy": "1575",
+    "legal": "1500",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1575",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01338",
+    "courtesy": "69415",
+    "legal": "20060",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "69415",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01341",
+    "courtesy": "10000",
+    "legal": "10000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "10000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01353",
+    "courtesy": "3300",
+    "legal": "100",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "3300",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01365",
+    "courtesy": "7098",
+    "legal": "7890",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "7098",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01383",
+    "courtesy": "40000",
+    "legal": "1050",
+    "label": "MISMATCH",
+    "leftover": [
+      "اربغه"
+    ],
+    "gt": "40000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01396",
+    "courtesy": "11600",
+    "legal": "1600",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1600",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01404",
+    "courtesy": "6090",
+    "legal": "6090",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "6090",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01407",
+    "courtesy": "483",
+    "legal": "483",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "483",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01410",
+    "courtesy": "867",
+    "legal": "867",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "867",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01413",
+    "courtesy": "100000",
+    "legal": "100000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "100000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01420",
+    "courtesy": "613569",
+    "legal": "6135",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "6135",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01440",
+    "courtesy": "723332",
+    "legal": "72333",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "72333",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01447",
+    "courtesy": "4992",
+    "legal": "2992",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "4992",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01448",
+    "courtesy": "500",
+    "legal": "5000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "500",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01453",
+    "courtesy": "43125",
+    "legal": "6034",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "6431",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01477",
+    "courtesy": "3000",
+    "legal": "3000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "3000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01481",
+    "courtesy": "9670",
+    "legal": "9605",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "9670",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01487",
+    "courtesy": "7140",
+    "legal": "7127",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "7140",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01505",
+    "courtesy": "19000",
+    "legal": "19000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "19000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01506",
+    "courtesy": "37310",
+    "legal": "33000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "37310",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01520",
+    "courtesy": "6472",
+    "legal": "600",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "6472",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01528",
+    "courtesy": "4873",
+    "legal": "4803",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "4873",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01530",
+    "courtesy": "39850",
+    "legal": "93085",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "3985",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01537",
+    "courtesy": "1300",
+    "legal": "1300",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "1300",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01541",
+    "courtesy": "2232",
+    "legal": "3139",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2432",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01549",
+    "courtesy": "2876",
+    "legal": "2860",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2876",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01559",
+    "courtesy": "20450",
+    "legal": "30450",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "20450",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01566",
+    "courtesy": "53064",
+    "legal": "53000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "53064",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01575",
+    "courtesy": "2848",
+    "legal": "2848",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "2848",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01585",
+    "courtesy": "336840",
+    "legal": "3368",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "3368",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01586",
+    "courtesy": "99966",
+    "legal": "199000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "999",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01595",
+    "courtesy": "4380",
+    "legal": "4380",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "4380",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01601",
+    "courtesy": "3130000",
+    "legal": "303000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "313000",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01634",
+    "courtesy": "331920",
+    "legal": "33392",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "33192",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01649",
+    "courtesy": "860",
+    "legal": "860",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "860",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01660",
+    "courtesy": "4931",
+    "legal": "4932",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "4931",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01662",
+    "courtesy": "25000",
+    "legal": "29000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "25000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01664",
+    "courtesy": "19983",
+    "legal": "902",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "902",
+    "courtesy_ok": false,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01669",
+    "courtesy": "16000",
+    "legal": "10000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "16000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01698",
+    "courtesy": "15000",
+    "legal": "15000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "15000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01710",
+    "courtesy": "100000",
+    "legal": "100000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "100000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01716",
+    "courtesy": "1000",
+    "legal": "1000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "1000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01720",
+    "courtesy": "2125",
+    "legal": "2150",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "2125",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01747",
+    "courtesy": "150000",
+    "legal": "150000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "150000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01760",
+    "courtesy": "780",
+    "legal": "180",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "780",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01767",
+    "courtesy": "1186",
+    "legal": "1100",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1186",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01776",
+    "courtesy": "462",
+    "legal": "462",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "462",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01786",
+    "courtesy": "50000",
+    "legal": "50000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "50000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01790",
+    "courtesy": "24000",
+    "legal": "24000",
+    "label": "MATCH",
+    "leftover": [],
+    "gt": "24000",
+    "courtesy_ok": true,
+    "legal_ok": true
+  },
+  {
+    "stem": "ac01794",
+    "courtesy": "80000",
+    "legal": "80413",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "80000",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01795",
+    "courtesy": "26046",
+    "legal": "26000",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "26046",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01798",
+    "courtesy": "11103",
+    "legal": "14103",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "11103",
+    "courtesy_ok": true,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01801",
+    "courtesy": "14150",
+    "legal": "1420",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1415",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01803",
+    "courtesy": "57302",
+    "legal": "530",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "573",
+    "courtesy_ok": false,
+    "legal_ok": false
+  },
+  {
+    "stem": "ac01805",
+    "courtesy": "190",
+    "legal": "1220",
+    "label": "MISMATCH",
+    "leftover": [],
+    "gt": "1210",
+    "courtesy_ok": false,
+    "legal_ok": false
+  }
+]

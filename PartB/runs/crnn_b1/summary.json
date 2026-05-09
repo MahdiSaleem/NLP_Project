@@ -1,0 +1,10 @@
+{
+  "best_epoch": 32,
+  "best_val_digit_accuracy": 97.57961783439491,
+  "epochs_run": 47,
+  "vocab_size": 13,
+  "backbone": "resnet18",
+  "height": 96,
+  "n_train": 1431,
+  "n_val": 177
+}

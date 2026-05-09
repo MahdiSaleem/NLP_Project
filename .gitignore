@@ -37,8 +37,6 @@ env/
 *.swo
 
 # Datasets / Large files
-# It's usually a good idea to not commit large datasets to Git. 
-# If you want to commit specific files in Dataset/, you can use negative patterns (e.g. !Dataset/annotations.json)
 Dataset/CheckImages/
 Dataset/BoundingBoxes/
 Dataset/CourtesyAmounts/
@@ -49,26 +47,17 @@ Dataset/LegalAmounts_tokenized/
 *.jpg
 *.png
 
-# Training outputs (regenerable)
-PartA/runs/
-PartA/yolo_data/
-PartC/runs/
-PartC/crops/
-PartC/splits/
-PartC/splits_paw/
-PartC/vocab.json
-PartC/vocab.txt
-PartC/paw_vocab.json
-PartB/runs/
-PartB/crops/
-PartB/splits/
-PartB/courtesy_vocab.json
-PartD/runs/
+# Ignore Heavy Models and Intermediate Data
 *.pt
+*.safetensors
+PartA/yolo_data/
+PartA/test_yolo_data*/
+PartB/crops/
+PartC/crops/
+PartD/crops/
 
 # Backups and Local Testing
 Test Set/
-PartA/test_yolo_data*/
 *_backup/
 predictions_smoke_test.txt
 *.pdf
