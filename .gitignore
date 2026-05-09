@@ -63,4 +63,5 @@ PartB/runs/
 PartB/crops/
 PartB/splits/
 PartB/courtesy_vocab.json
+PartD/runs/
 *.pt
