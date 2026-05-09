@@ -59,4 +59,8 @@ PartC/splits_paw/
 PartC/vocab.json
 PartC/vocab.txt
 PartC/paw_vocab.json
+PartB/runs/
+PartB/crops/
+PartB/splits/
+PartB/courtesy_vocab.json
 *.pt
