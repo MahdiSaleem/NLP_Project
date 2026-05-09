@@ -65,3 +65,10 @@ PartB/splits/
 PartB/courtesy_vocab.json
 PartD/runs/
 *.pt
+
+# Backups and Local Testing
+Test Set/
+PartA/test_yolo_data*/
+*_backup/
+predictions_smoke_test.txt
+*.pdf
